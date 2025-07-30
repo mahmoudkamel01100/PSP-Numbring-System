@@ -1,0 +1,66 @@
+[
+  {
+    "Project ID": "1",
+    "Project Name": "1089 - Matra CCPP",
+    "Project Img": "https://picsum.photos/seed/matra/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Ghat -SQR.json"
+  },
+  {
+    "Project ID": "2",
+    "Project Name": "2011 Rabigh Combined Cycle Power Plant",
+    "Project Img": "https://picsum.photos/seed/rabigh/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Rabigh -SQR.json"
+  },
+  {
+    "Project ID": "3",
+    "Project Name": "2019 - 2019 KSA NAQUA",
+    "Project Img": "https://picsum.photos/seed/naqua/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Rabigh -SQR.json"
+  },
+  {
+    "Project ID": "4",
+    "Project Name": "2021 - Al Mourjan",
+    "Project Img": "https://picsum.photos/seed/mourjan/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Mourjan -SQR.json"
+  },
+  {
+    "Project ID": "5",
+    "Project Name": "2028 - Arrass",
+    "Project Img": "https://picsum.photos/seed/arrass/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Arrass -SQR.json"
+  },
+  {
+    "Project ID": "6",
+    "Project Name": "2029 - Al Ghat",
+    "Project Img": "https://picsum.photos/seed/alghat/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Ghat -SQR.json"
+  },
+  {
+    "Project ID": "7",
+    "Project Name": "2030 - Al Khafah",
+    "Project Img": "https://picsum.photos/seed/khafah/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Khafah -SQR.json"
+  },
+  {
+    "Project ID": "8",
+    "Project Name": "9001 - Energy Bank (Greece)",
+    "Project Img": "https://picsum.photos/seed/energybank/400/200",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Khafah -SQR.json"
+  }
+]

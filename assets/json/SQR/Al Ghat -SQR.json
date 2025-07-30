@@ -1,0 +1,114 @@
+[
+  {
+    "ID": "1",
+    "Discipline": "General",
+    "Section": "General",
+    "Start Range": "200001",
+    "End Range": "201000"
+  },
+  {
+    "ID": "2",
+    "Discipline": "Civil",
+    "Section": "Concrete",
+    "Start Range": "201001",
+    "End Range": "202000"
+  },
+  {
+    "ID": "3",
+    "Discipline": "Civil",
+    "Section": "Steel",
+    "Start Range": "202001",
+    "End Range": "203000"
+  },
+  {
+    "ID": "4",
+    "Discipline": "Civil",
+    "Section": "Geotechnical",
+    "Start Range": "203001",
+    "End Range": "204000"
+  },
+  {
+    "ID": "5",
+    "Discipline": "Civil",
+    "Section": "Infrastructure",
+    "Start Range": "204001",
+    "End Range": "205000"
+  },
+  {
+    "ID": "6",
+    "Discipline": "Civil",
+    "Section": "MEP",
+    "Start Range": "205001",
+    "End Range": "206000"
+  },
+  {
+    "ID": "7",
+    "Discipline": "Civil",
+    "Section": "Architecture",
+    "Start Range": "206001",
+    "End Range": "207000"
+  },
+  {
+    "ID": "8",
+    "Discipline": "Civil",
+    "Section": "General",
+    "Start Range": "207001",
+    "End Range": "208000"
+  },
+  {
+    "ID": "9",
+    "Discipline": "Electrical",
+    "Section": "General",
+    "Start Range": "208001",
+    "End Range": "209000"
+  },
+  {
+    "ID": "10",
+    "Discipline": "Electrical",
+    "Section": "Primary",
+    "Start Range": "209001",
+    "End Range": "210000"
+  },
+  {
+    "ID": "11",
+    "Discipline": "Electrical",
+    "Section": "Secondary",
+    "Start Range": "210001",
+    "End Range": "211000"
+  },
+  {
+    "ID": "12",
+    "Discipline": "Electrical",
+    "Section": "MEP",
+    "Start Range": "211001",
+    "End Range": "212000"
+  },
+  {
+    "ID": "13",
+    "Discipline": "Mechanical",
+    "Section": "Process",
+    "Start Range": "212001",
+    "End Range": "213000"
+  },
+  {
+    "ID": "14",
+    "Discipline": "Mechanical",
+    "Section": "Plant Design",
+    "Start Range": "213001",
+    "End Range": "214000"
+  },
+  {
+    "ID": "15",
+    "Discipline": "I&C",
+    "Section": "General",
+    "Start Range": "214001",
+    "End Range": "215000"
+  },
+  {
+    "ID": "16",
+    "Discipline": "I&C",
+    "Section": "I&C",
+    "Start Range": "215001",
+    "End Range": "216000"
+  }
+]
