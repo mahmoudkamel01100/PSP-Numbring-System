@@ -1,0 +1,392 @@
+[
+ {
+  "Department": "Commissioning",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "Commissioning",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "Engineering",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "HSE",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "Planning",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "Project Management",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "General",
+  "Section": "General"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "Concrete"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "Steel"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "Infrastructure"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "Architecture"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Civil",
+  "Section": "Geotechnical"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Electrical",
+  "Section": "Primary"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Electrical",
+  "Section": "Secondary"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Electrical",
+  "Section": "MEP"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Mechanical",
+  "Section": "Process"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "Mechanical",
+  "Section": "Plant Design"
+ },
+ {
+  "Department": "Quality",
+  "Discipline": "I&C",
+  "Section": "I&C"
+ }
+]

@@ -1,0 +1,2414 @@
+[
+  {
+    "Code": "AAA010",
+    "Description": "Cover sheet of a document set"
+  },
+  {
+    "Code": "AAA020",
+    "Description": "Instruction for updating"
+  },
+  {
+    "Code": "AAB010",
+    "Description": "List of documents"
+  },
+  {
+    "Code": "AAB020",
+    "Description": "List of relations between system/products and documents"
+  },
+  {
+    "Code": "AAC010",
+    "Description": "Description documentation concept"
+  },
+  {
+    "Code": "AAC030",
+    "Description": "Fill in instruction"
+  },
+  {
+    "Code": "ABA010",
+    "Description": "List of business partners"
+  },
+  {
+    "Code": "ABA020",
+    "Description": "Distribution list"
+  },
+  {
+    "Code": "ABB010",
+    "Description": "Status report"
+  },
+  {
+    "Code": "ABB020",
+    "Description": "Minutes of Meeting"
+  },
+  {
+    "Code": "ABB030",
+    "Description": "Experience report (non technical)"
+  },
+  {
+    "Code": "ABB040",
+    "Description": "Notification of defects"
+  },
+  {
+    "Code": "ABB050",
+    "Description": "Defects report"
+  },
+  {
+    "Code": "ABB060",
+    "Description": "Project closing report"
+  },
+  {
+    "Code": "ABB070",
+    "Description": "Business report"
+  },
+  {
+    "Code": "ABB080",
+    "Description": "Notification of significant event, reportable"
+  },
+  {
+    "Code": "ABC010",
+    "Description": "Internal correspondence"
+  },
+  {
+    "Code": "ABC020",
+    "Description": "External correspondence"
+  },
+  {
+    "Code": "ABC030",
+    "Description": "Message"
+  },
+  {
+    "Code": "ABC040",
+    "Description": "Note"
+  },
+  {
+    "Code": "ABD010",
+    "Description": "Project application"
+  },
+  {
+    "Code": "ABD020",
+    "Description": "Project instruction"
+  },
+  {
+    "Code": "ABD030",
+    "Description": "Project approval"
+  },
+  {
+    "Code": "ABD040",
+    "Description": "Project manual"
+  },
+  {
+    "Code": "ABD050",
+    "Description": "Project calculation"
+  },
+  {
+    "Code": "ABD060",
+    "Description": "Project notice"
+  },
+  {
+    "Code": "ABD070",
+    "Description": "Project progress log"
+  },
+  {
+    "Code": "ABD080",
+    "Description": "Proof of result"
+  },
+  {
+    "Code": "ABD090",
+    "Description": "Construction and erection inspection plan"
+  },
+  {
+    "Code": "ABD100",
+    "Description": "Notice of Delay and Disruption"
+  },
+  {
+    "Code": "ABD110",
+    "Description": "List of delivered documents"
+  },
+  {
+    "Code": "ABD120",
+    "Description": "Manufacturing inspection plan"
+  },
+  {
+    "Code": "ABD130",
+    "Description": "Information requirements list"
+  },
+  {
+    "Code": "ABD140",
+    "Description": "Proof of delivery"
+  },
+  {
+    "Code": "ABD150",
+    "Description": "List of open points (LOP)"
+  },
+  {
+    "Code": "ABD160",
+    "Description": "Time sheet"
+  },
+  {
+    "Code": "ABE010",
+    "Description": "Resource planning document, overall"
+  },
+  {
+    "Code": "ABE020",
+    "Description": "Time schedule"
+  },
+  {
+    "Code": "ABE030",
+    "Description": "Personnel concept"
+  },
+  {
+    "Code": "ABE040",
+    "Description": "Cost plan"
+  },
+  {
+    "Code": "ABE050",
+    "Description": "Material allocation plan"
+  },
+  {
+    "Code": "ABE060",
+    "Description": "Project schedule"
+  },
+  {
+    "Code": "ABE070",
+    "Description": "Project structure plan"
+  },
+  {
+    "Code": "ABE080",
+    "Description": "Organisation chart"
+  },
+  {
+    "Code": "ABF010",
+    "Description": "Dispatch specification"
+  },
+  {
+    "Code": "ABF020",
+    "Description": "Dispatch document"
+  },
+  {
+    "Code": "ABF030",
+    "Description": "Transport specification"
+  },
+  {
+    "Code": "ABF040",
+    "Description": "Transport document"
+  },
+  {
+    "Code": "ABF060",
+    "Description": "Certificate of origin"
+  },
+  {
+    "Code": "ABG010",
+    "Description": "Site organisation document"
+  },
+  {
+    "Code": "ABG020",
+    "Description": "Site specification"
+  },
+  {
+    "Code": "ABG030",
+    "Description": "Site progress log"
+  },
+  {
+    "Code": "ABH010",
+    "Description": "Notification of modification"
+  },
+  {
+    "Code": "ABH020",
+    "Description": "Request for modification"
+  },
+  {
+    "Code": "ABH050",
+    "Description": "Modification order"
+  },
+  {
+    "Code": "ABH060",
+    "Description": "List of modifications"
+  },
+  {
+    "Code": "ABH070",
+    "Description": "Release note"
+  },
+  {
+    "Code": "ABS010",
+    "Description": "Plant protection instruction"
+  },
+  {
+    "Code": "ABS020",
+    "Description": "Plant protection plan"
+  },
+  {
+    "Code": "ABS030",
+    "Description": "Alarm plan"
+  },
+  {
+    "Code": "ABS040",
+    "Description": "Fire protection plan for the plant"
+  },
+  {
+    "Code": "ABS050",
+    "Description": "Explosion protection document"
+  },
+  {
+    "Code": "ABS060",
+    "Description": "Fire brigade intervention plan"
+  },
+  {
+    "Code": "ABS070",
+    "Description": "Fire brigade operation sheet"
+  },
+  {
+    "Code": "ABS080",
+    "Description": "Fire brigade plan for structures"
+  },
+  {
+    "Code": "ABS090",
+    "Description": "Escape- and rescueplan"
+  },
+  {
+    "Code": "ABS100",
+    "Description": "Flood protection plan"
+  },
+  {
+    "Code": "ABS110",
+    "Description": "Disaster protection plan"
+  },
+  {
+    "Code": "ABS120",
+    "Description": "Emergency manual"
+  },
+  {
+    "Code": "ABS130",
+    "Description": "Master key system plan"
+  },
+  {
+    "Code": "ABS140",
+    "Description": "Radiation protection plan against external influences"
+  },
+  {
+    "Code": "ABT010",
+    "Description": "Training document"
+  },
+  {
+    "Code": "ABT020",
+    "Description": "Training program"
+  },
+  {
+    "Code": "ABZ010",
+    "Description": "Mandatory instruction for organisation"
+  },
+  {
+    "Code": "ABZ020",
+    "Description": "Working instruction"
+  },
+  {
+    "Code": "ACA010",
+    "Description": "Enquiry"
+  },
+  {
+    "Code": "ACA020",
+    "Description": "Tender"
+  },
+  {
+    "Code": "ACA030",
+    "Description": "Comparison of bids"
+  },
+  {
+    "Code": "ACA040",
+    "Description": "Invitation to tender"
+  },
+  {
+    "Code": "ACA050",
+    "Description": "List of bidders"
+  },
+  {
+    "Code": "ACA060",
+    "Description": "Spare parts quotation"
+  },
+  {
+    "Code": "ACA070",
+    "Description": "Financing plan"
+  },
+  {
+    "Code": "ACA080",
+    "Description": "Calculation sheet"
+  },
+  {
+    "Code": "ACA090",
+    "Description": "Specification of equipment and/or services"
+  },
+  {
+    "Code": "ACA100",
+    "Description": "Bill of quantities"
+  },
+  {
+    "Code": "ACA110",
+    "Description": "Price list"
+  },
+  {
+    "Code": "ACA120",
+    "Description": "Risk mitigation plan"
+  },
+  {
+    "Code": "ACA130",
+    "Description": "Calculation of profitability"
+  },
+  {
+    "Code": "ACA140",
+    "Description": "Letter of acceptance"
+  },
+  {
+    "Code": "ACA150",
+    "Description": "Acceptance list"
+  },
+  {
+    "Code": "ACA160",
+    "Description": "Recommendation for placing an order"
+  },
+  {
+    "Code": "ACB010",
+    "Description": "Approval application"
+  },
+  {
+    "Code": "ACB020",
+    "Description": "Notification of approval"
+  },
+  {
+    "Code": "ACB030",
+    "Description": "License"
+  },
+  {
+    "Code": "ACB040",
+    "Description": "Approval notification (product)"
+  },
+  {
+    "Code": "ACC010",
+    "Description": "Terms and conditions of purchase"
+  },
+  {
+    "Code": "ACC020",
+    "Description": "Letter of intent"
+  },
+  {
+    "Code": "ACC030",
+    "Description": "Contract"
+  },
+  {
+    "Code": "ACC050",
+    "Description": "Terms of delivery"
+  },
+  {
+    "Code": "ACC060",
+    "Description": "Acceptance specification"
+  },
+  {
+    "Code": "ACC070",
+    "Description": "Scope of supply and services"
+  },
+  {
+    "Code": "ACC080",
+    "Description": "Terms of payment"
+  },
+  {
+    "Code": "ACC090",
+    "Description": "Payment plan"
+  },
+  {
+    "Code": "ACC100",
+    "Description": "Confirmation of acceptance"
+  },
+  {
+    "Code": "ACD010",
+    "Description": "Order"
+  },
+  {
+    "Code": "ACD020",
+    "Description": "Confirmation of order"
+  },
+  {
+    "Code": "ACD030",
+    "Description": "Delivery note"
+  },
+  {
+    "Code": "ACE010",
+    "Description": "Invoice"
+  },
+  {
+    "Code": "ACE020",
+    "Description": "Credit"
+  },
+  {
+    "Code": "ACE030",
+    "Description": "Order to pay"
+  },
+  {
+    "Code": "ACE040",
+    "Description": "Measurement"
+  },
+  {
+    "Code": "ACF010",
+    "Description": "Insurance policy"
+  },
+  {
+    "Code": "ACF020",
+    "Description": "Application for insurance"
+  },
+  {
+    "Code": "ACF030",
+    "Description": "Insurance certificate"
+  },
+  {
+    "Code": "ACF040",
+    "Description": "Notification of damage"
+  },
+  {
+    "Code": "ACF050",
+    "Description": "Insurance conditions"
+  },
+  {
+    "Code": "ACG010",
+    "Description": "Warranty document"
+  },
+  {
+    "Code": "ACH010",
+    "Description": "Expertise"
+  },
+  {
+    "Code": "ACH020",
+    "Description": "Comment on an expertise"
+  },
+  {
+    "Code": "ACH030",
+    "Description": "Survey"
+  },
+  {
+    "Code": "ADZ010",
+    "Description": "Instruction for normal operation"
+  },
+  {
+    "Code": "ADZ020",
+    "Description": "Instruction for faulty operation"
+  },
+  {
+    "Code": "ADZ030",
+    "Description": "Organisational instruction"
+  },
+  {
+    "Code": "ADZ040",
+    "Description": "Maintenance instruction"
+  },
+  {
+    "Code": "ADZ050",
+    "Description": "Assembly instruction"
+  },
+  {
+    "Code": "ADZ060",
+    "Description": "Inspection and test instruction"
+  },
+  {
+    "Code": "ADZ070",
+    "Description": "Start up instruction"
+  },
+  {
+    "Code": "AEA010",
+    "Description": "Construction restraints"
+  },
+  {
+    "Code": "AEA020",
+    "Description": "Operation decree"
+  },
+  {
+    "Code": "AEA030",
+    "Description": "Environmental decree"
+  },
+  {
+    "Code": "AEA040",
+    "Description": "Law/regulation/technical rules of public institutions"
+  },
+  {
+    "Code": "AEB010",
+    "Description": "List of codes and standards"
+  },
+  {
+    "Code": "AEB020",
+    "Description": "In-house standard"
+  },
+  {
+    "Code": "AEB030",
+    "Description": "Association standard"
+  },
+  {
+    "Code": "AEC010",
+    "Description": "Requirement specification"
+  },
+  {
+    "Code": "AEC020",
+    "Description": "Technical specification"
+  },
+  {
+    "Code": "AQA010",
+    "Description": "QM manual"
+  },
+  {
+    "Code": "AQA020",
+    "Description": "Audit document"
+  },
+  {
+    "Code": "AQA030",
+    "Description": "Document according to a suggestion for improvement"
+  },
+  {
+    "Code": "AQA040",
+    "Description": "Quality certificate"
+  },
+  {
+    "Code": "AQA050",
+    "Description": "Document for the management of functional safety"
+  },
+  {
+    "Code": "AQA060",
+    "Description": "QA manual"
+  },
+  {
+    "Code": "AQB010",
+    "Description": "Safety study"
+  },
+  {
+    "Code": "AQB020",
+    "Description": "Risk assessment"
+  },
+  {
+    "Code": "AQB030",
+    "Description": "Warning and safety note"
+  },
+  {
+    "Code": "AQB040",
+    "Description": "Hazard assessment"
+  },
+  {
+    "Code": "AQB050",
+    "Description": "Protection plan product"
+  },
+  {
+    "Code": "AQB060",
+    "Description": "Protection plan plant"
+  },
+  {
+    "Code": "AQB070",
+    "Description": "Safety and health plan"
+  },
+  {
+    "Code": "AQC040",
+    "Description": "Test certificate"
+  },
+  {
+    "Code": "AQC090",
+    "Description": "Qualification record personal"
+  },
+  {
+    "Code": "AWT010",
+    "Description": "Operational log sheet"
+  },
+  {
+    "Code": "AWT020",
+    "Description": "Shift log"
+  },
+  {
+    "Code": "AWT030",
+    "Description": "Key log"
+  },
+  {
+    "Code": "AWT040",
+    "Description": "Switching operation log (de-energizing)"
+  },
+  {
+    "Code": "AWT050",
+    "Description": "Work permit"
+  },
+  {
+    "Code": "AWT060",
+    "Description": "Works order for operational and maintenance activities"
+  },
+  {
+    "Code": "BAA010",
+    "Description": "Cover sheet of a document set"
+  },
+  {
+    "Code": "BAA020",
+    "Description": "Instruction for updating"
+  },
+  {
+    "Code": "BAB010",
+    "Description": "List of documents"
+  },
+  {
+    "Code": "BAB020",
+    "Description": "List of relations between system/products and documents"
+  },
+  {
+    "Code": "BAC010",
+    "Description": "Description documentation concept"
+  },
+  {
+    "Code": "BBD120",
+    "Description": "Manufacturing inspection plan"
+  },
+  {
+    "Code": "BBE020",
+    "Description": "Time schedule"
+  },
+  {
+    "Code": "BBT010",
+    "Description": "Training document"
+  },
+  {
+    "Code": "BBT020",
+    "Description": "Training program"
+  },
+  {
+    "Code": "BCH010",
+    "Description": "Expertise"
+  },
+  {
+    "Code": "BDA020",
+    "Description": "Plant data sheet"
+  },
+  {
+    "Code": "BDB010",
+    "Description": "Abbreviation-catalogue"
+  },
+  {
+    "Code": "BDB020",
+    "Description": "Description of designation system"
+  },
+  {
+    "Code": "BDB030",
+    "Description": "System description"
+  },
+  {
+    "Code": "BDB040",
+    "Description": "Description of plant structure"
+  },
+  {
+    "Code": "BDB060",
+    "Description": "Product description"
+  },
+  {
+    "Code": "BDB070",
+    "Description": "Concept description"
+  },
+  {
+    "Code": "BDB080",
+    "Description": "Explanatory/Design report"
+  },
+  {
+    "Code": "BDC010",
+    "Description": "Instruction for use"
+  },
+  {
+    "Code": "BDC020",
+    "Description": "Operation instruction"
+  },
+  {
+    "Code": "BDC030",
+    "Description": "Instruction for start up"
+  },
+  {
+    "Code": "BDC040",
+    "Description": "Instruction for inspection"
+  },
+  {
+    "Code": "BDC050",
+    "Description": "Instruction for repair"
+  },
+  {
+    "Code": "BDC060",
+    "Description": "Storage specification"
+  },
+  {
+    "Code": "BDC070",
+    "Description": "Instruction for erection"
+  },
+  {
+    "Code": "BDC080",
+    "Description": "Instruction for inspection and test"
+  },
+  {
+    "Code": "BDC090",
+    "Description": "Instruction for service"
+  },
+  {
+    "Code": "BDC100",
+    "Description": "Instruction for disposal"
+  },
+  {
+    "Code": "BDD010",
+    "Description": "Experience report (technical)"
+  },
+  {
+    "Code": "BDD020",
+    "Description": "Result report on the trial operation"
+  },
+  {
+    "Code": "BDD030",
+    "Description": "Start up result report"
+  },
+  {
+    "Code": "BDD040",
+    "Description": "Inspection result report"
+  },
+  {
+    "Code": "BDD050",
+    "Description": "Maintenance result report"
+  },
+  {
+    "Code": "BDD060",
+    "Description": "Repair result report"
+  },
+  {
+    "Code": "BDD070",
+    "Description": "Measurement result report"
+  },
+  {
+    "Code": "BDD080",
+    "Description": "Erection result report"
+  },
+  {
+    "Code": "BDD090",
+    "Description": "Proof result report"
+  },
+  {
+    "Code": "BDD110",
+    "Description": "Investigation report"
+  },
+  {
+    "Code": "BDD120",
+    "Description": "Test result report"
+  },
+  {
+    "Code": "BDE010",
+    "Description": "Product leaflet"
+  },
+  {
+    "Code": "BDE020",
+    "Description": "Catalogue"
+  },
+  {
+    "Code": "BDF010",
+    "Description": "Technical paper"
+  },
+  {
+    "Code": "BDF020",
+    "Description": "Specialist book"
+  },
+  {
+    "Code": "BDF030",
+    "Description": "Technical journal"
+  },
+  {
+    "Code": "BDF040",
+    "Description": "Patent specification"
+  },
+  {
+    "Code": "BDZ010",
+    "Description": "Instruction for normal operation"
+  },
+  {
+    "Code": "BEC010",
+    "Description": "Requirement specification"
+  },
+  {
+    "Code": "BEC020",
+    "Description": "Technical specification"
+  },
+  {
+    "Code": "BED010",
+    "Description": "Design calculation"
+  },
+  {
+    "Code": "BLD010",
+    "Description": "Location plan"
+  },
+  {
+    "Code": "BLD020",
+    "Description": "Arrangement drawing (location)"
+  },
+  {
+    "Code": "BLH020",
+    "Description": "Arrangement drawing (building)"
+  },
+  {
+    "Code": "BLU010",
+    "Description": "Arrangement drawing (equipment)"
+  },
+  {
+    "Code": "BPA010",
+    "Description": "Material list"
+  },
+  {
+    "Code": "BPA020",
+    "Description": "Consumable item list"
+  },
+  {
+    "Code": "BPA050",
+    "Description": "Tool list"
+  },
+  {
+    "Code": "BPA070",
+    "Description": "Working material list"
+  },
+  {
+    "Code": "BPB010",
+    "Description": "Parts list"
+  },
+  {
+    "Code": "BPD010",
+    "Description": "Product type list"
+  },
+  {
+    "Code": "BPF020",
+    "Description": "List of systems"
+  },
+  {
+    "Code": "BQB030",
+    "Description": "Warning and safety note"
+  },
+  {
+    "Code": "BQC010",
+    "Description": "Declaration of conformity (according to law)"
+  },
+  {
+    "Code": "BQC020",
+    "Description": "Declaration of conformity (according to contract)"
+  },
+  {
+    "Code": "BQC030",
+    "Description": "Environment certificate"
+  },
+  {
+    "Code": "BQC040",
+    "Description": "Test certificate"
+  },
+  {
+    "Code": "BQC050",
+    "Description": "Acceptance report"
+  },
+  {
+    "Code": "BQC060",
+    "Description": "Calibration verification"
+  },
+  {
+    "Code": "BTC030",
+    "Description": "Manufacturing drawing"
+  },
+  {
+    "Code": "CAA010",
+    "Description": "Cover sheet of a document set"
+  },
+  {
+    "Code": "CAA020",
+    "Description": "Instruction for updating"
+  },
+  {
+    "Code": "CAB010",
+    "Description": "List of documents"
+  },
+  {
+    "Code": "CAB020",
+    "Description": "List of relations between system/products and documents"
+  },
+  {
+    "Code": "CAC010",
+    "Description": "Description documentation concept"
+  },
+  {
+    "Code": "CAC020",
+    "Description": "Catalogue of symbols"
+  },
+  {
+    "Code": "CBD120",
+    "Description": "Manufacturing inspection plan"
+  },
+  {
+    "Code": "CBE020",
+    "Description": "Time schedule"
+  },
+  {
+    "Code": "CBT010",
+    "Description": "Training document"
+  },
+  {
+    "Code": "CBT020",
+    "Description": "Training program"
+  },
+  {
+    "Code": "CCC100",
+    "Description": "Confirmation of acceptance"
+  },
+  {
+    "Code": "CCH010",
+    "Description": "Expertise"
+  },
+  {
+    "Code": "CDA010",
+    "Description": "Product data sheet"
+  },
+  {
+    "Code": "CDA020",
+    "Description": "Plant data sheet"
+  },
+  {
+    "Code": "CDB030",
+    "Description": "System description"
+  },
+  {
+    "Code": "CDB050",
+    "Description": "Building description"
+  },
+  {
+    "Code": "CDB060",
+    "Description": "Product description"
+  },
+  {
+    "Code": "CDB070",
+    "Description": "Concept description"
+  },
+  {
+    "Code": "CDB080",
+    "Description": "Explanatory/Design report"
+  },
+  {
+    "Code": "CDC010",
+    "Description": "Instruction for use"
+  },
+  {
+    "Code": "CDC020",
+    "Description": "Operation instruction"
+  },
+  {
+    "Code": "CDC030",
+    "Description": "Instruction for start up"
+  },
+  {
+    "Code": "CDC040",
+    "Description": "Instruction for inspection"
+  },
+  {
+    "Code": "CDC050",
+    "Description": "Instruction for repair"
+  },
+  {
+    "Code": "CDC060",
+    "Description": "Storage specification"
+  },
+  {
+    "Code": "CDC070",
+    "Description": "Instruction for erection"
+  },
+  {
+    "Code": "CDC080",
+    "Description": "Instruction for inspection and test"
+  },
+  {
+    "Code": "CDC090",
+    "Description": "Instruction for service"
+  },
+  {
+    "Code": "CDC100",
+    "Description": "Instruction for disposal"
+  },
+  {
+    "Code": "CDD010",
+    "Description": "Experience report (technical)"
+  },
+  {
+    "Code": "CDD020",
+    "Description": "Result report on the trial operation"
+  },
+  {
+    "Code": "CDD030",
+    "Description": "Start up result report"
+  },
+  {
+    "Code": "CDD040",
+    "Description": "Inspection result report"
+  },
+  {
+    "Code": "CDD050",
+    "Description": "Maintenance result report"
+  },
+  {
+    "Code": "CDD060",
+    "Description": "Repair result report"
+  },
+  {
+    "Code": "CDD070",
+    "Description": "Measurement result report"
+  },
+  {
+    "Code": "CDD080",
+    "Description": "Erection result report"
+  },
+  {
+    "Code": "CDD090",
+    "Description": "Proof result report"
+  },
+  {
+    "Code": "CDD110",
+    "Description": "Investigation report"
+  },
+  {
+    "Code": "CDD120",
+    "Description": "Test result report"
+  },
+  {
+    "Code": "CDE010",
+    "Description": "Product leaflet"
+  },
+  {
+    "Code": "CDE020",
+    "Description": "Catalogue"
+  },
+  {
+    "Code": "CDF010",
+    "Description": "Technical paper"
+  },
+  {
+    "Code": "CDF020",
+    "Description": "Specialist book"
+  },
+  {
+    "Code": "CDF030",
+    "Description": "Technical journal"
+  },
+  {
+    "Code": "CDF040",
+    "Description": "Patent specification"
+  },
+  {
+    "Code": "CDZ010",
+    "Description": "Instruction for normal operation"
+  },
+  {
+    "Code": "CDZ050",
+    "Description": "Assembly instruction"
+  },
+  {
+    "Code": "CEC010",
+    "Description": "Requirement specification"
+  },
+  {
+    "Code": "CEC020",
+    "Description": "Technical specification"
+  },
+  {
+    "Code": "CED010",
+    "Description": "Design calculation"
+  },
+  {
+    "Code": "CED020",
+    "Description": "Strength calculation"
+  },
+  {
+    "Code": "CLA010",
+    "Description": "Survey document"
+  },
+  {
+    "Code": "CLA020",
+    "Description": "Exploitation document"
+  },
+  {
+    "Code": "CLB010",
+    "Description": "Earthwork document"
+  },
+  {
+    "Code": "CLB020",
+    "Description": "Foundation work document"
+  },
+  {
+    "Code": "CLC010",
+    "Description": "Document with statements about the construction load"
+  },
+  {
+    "Code": "CLC020",
+    "Description": "Execution document for the shell"
+  },
+  {
+    "Code": "CLC030",
+    "Description": "Execution document for the steel construction (shell)"
+  },
+  {
+    "Code": "CLC031",
+    "Description": "Steelwork basic building drawing"
+  },
+  {
+    "Code": "CLC032",
+    "Description": "General drawing of steel structure"
+  },
+  {
+    "Code": "CLC033",
+    "Description": "Grating layout drawing"
+  },
+  {
+    "Code": "CLC034",
+    "Description": "Structural steelwork fabrication drawing"
+  },
+  {
+    "Code": "CLC035",
+    "Description": "Structural steelwork erection drawing"
+  },
+  {
+    "Code": "CLC040",
+    "Description": "Execution document for the face of a building/masonry"
+  },
+  {
+    "Code": "CLC041",
+    "Description": "Architectural layout drawing"
+  },
+  {
+    "Code": "CLC042",
+    "Description": "Cladding erection drawing"
+  },
+  {
+    "Code": "CLC043",
+    "Description": "Masonry drawing"
+  },
+  {
+    "Code": "CLC050",
+    "Description": "Execution document outside facilities"
+  },
+  {
+    "Code": "CLC060",
+    "Description": "Reinforcement drawing"
+  },
+  {
+    "Code": "CLC061",
+    "Description": "Embedded parts drawing"
+  },
+  {
+    "Code": "CLC062",
+    "Description": "Anchoring formwork drawing"
+  },
+  {
+    "Code": "CLC063",
+    "Description": "Bar bending schedule"
+  },
+  {
+    "Code": "CLC070",
+    "Description": "Formwork drawing"
+  },
+  {
+    "Code": "CLD010",
+    "Description": "Location plan"
+  },
+  {
+    "Code": "CLD011",
+    "Description": "General layout drawing"
+  },
+  {
+    "Code": "CLD012",
+    "Description": "Plant layout drawing"
+  },
+  {
+    "Code": "CLD013",
+    "Description": "Axis drawing"
+  },
+  {
+    "Code": "CLD014",
+    "Description": "External works layout drawing"
+  },
+  {
+    "Code": "CLD015",
+    "Description": "Part layout drawing"
+  },
+  {
+    "Code": "CLD016",
+    "Description": "Landscaping drawing"
+  },
+  {
+    "Code": "CLD020",
+    "Description": "Arrangement drawing (location)"
+  },
+  {
+    "Code": "CLD021",
+    "Description": "Borehole drawing"
+  },
+  {
+    "Code": "CLD022",
+    "Description": "Road layout and parking area drawing"
+  },
+  {
+    "Code": "CLD023",
+    "Description": "Fence layout drawing"
+  },
+  {
+    "Code": "CLD024",
+    "Description": "Railway arrangement drawing"
+  },
+  {
+    "Code": "CLD025",
+    "Description": "Hydraulic engineering drawing (Catchment area drawing)"
+  },
+  {
+    "Code": "CLD026",
+    "Description": "Maintenance laydown area drawing"
+  },
+  {
+    "Code": "CLD060",
+    "Description": "Construction detail drawing (location)"
+  },
+  {
+    "Code": "CLH010",
+    "Description": "Building drawing"
+  },
+  {
+    "Code": "CLH011",
+    "Description": "General arrangement drawing building"
+  },
+  {
+    "Code": "CLH012",
+    "Description": "Building permission application drawing"
+  },
+  {
+    "Code": "CLH020",
+    "Description": "Arrangement drawing (building)"
+  },
+  {
+    "Code": "CLH060",
+    "Description": "Construction detail drawing (building)"
+  },
+  {
+    "Code": "CLH061",
+    "Description": "Basic building drawing"
+  },
+  {
+    "Code": "CLH062",
+    "Description": "Building drainage drawing"
+  },
+  {
+    "Code": "CLH063",
+    "Description": "Finishing works drawing"
+  },
+  {
+    "Code": "CLH064",
+    "Description": "Cladding drawing"
+  },
+  {
+    "Code": "CLH065",
+    "Description": "Suspended ceiling drawing"
+  },
+  {
+    "Code": "CLH066",
+    "Description": "Raised floor drawing"
+  },
+  {
+    "Code": "CLH067",
+    "Description": "Furniture layout drawing"
+  },
+  {
+    "Code": "CLH068",
+    "Description": "Doors and windows drawing"
+  },
+  {
+    "Code": "CLH069",
+    "Description": "Sanitary drawing"
+  },
+  {
+    "Code": "CPA010",
+    "Description": "Material list"
+  },
+  {
+    "Code": "CPA020",
+    "Description": "Consumable item list"
+  },
+  {
+    "Code": "CPA050",
+    "Description": "Tool list"
+  },
+  {
+    "Code": "CPA070",
+    "Description": "Working material list"
+  },
+  {
+    "Code": "CPB010",
+    "Description": "Parts list"
+  },
+  {
+    "Code": "CPD010",
+    "Description": "Product type list"
+  },
+  {
+    "Code": "CPF020",
+    "Description": "List of systems"
+  },
+  {
+    "Code": "CPL010",
+    "Description": "Room list"
+  },
+  {
+    "Code": "CQB030",
+    "Description": "Warning and safety note"
+  },
+  {
+    "Code": "CQC010",
+    "Description": "Declaration of conformity (according to law)"
+  },
+  {
+    "Code": "CQC020",
+    "Description": "Declaration of conformity (according to contract)"
+  },
+  {
+    "Code": "CQC040",
+    "Description": "Test certificate"
+  },
+  {
+    "Code": "CQC050",
+    "Description": "Acceptance report"
+  },
+  {
+    "Code": "CQC070",
+    "Description": "Welding record"
+  },
+  {
+    "Code": "CQC100",
+    "Description": "NDT protocol"
+  },
+  {
+    "Code": "CQC110",
+    "Description": "Application for toleration"
+  },
+  {
+    "Code": "CQC120",
+    "Description": "Proof of waste disposal"
+  },
+  {
+    "Code": "CTA010",
+    "Description": "Design drawing"
+  },
+  {
+    "Code": "CTA020",
+    "Description": "Architectural drawing"
+  },
+  {
+    "Code": "CTB010",
+    "Description": "Dimensional drawing"
+  },
+  {
+    "Code": "CTB030",
+    "Description": "Component drawing"
+  },
+  {
+    "Code": "CTB040",
+    "Description": "Interface drawing"
+  },
+  {
+    "Code": "CTC010",
+    "Description": "Measurement arrangement (Hook-up)"
+  },
+  {
+    "Code": "CTC020",
+    "Description": "Erection drawing"
+  },
+  {
+    "Code": "CTC030",
+    "Description": "Manufacturing drawing"
+  },
+  {
+    "Code": "CTC040",
+    "Description": "Pattern drawing"
+  },
+  {
+    "Code": "EAA010",
+    "Description": "Cover sheet of a document set"
+  },
+  {
+    "Code": "EAA020",
+    "Description": "Instruction for updating"
+  },
+  {
+    "Code": "EAB010",
+    "Description": "List of documents"
+  },
+  {
+    "Code": "EAB020",
+    "Description": "List of relations between system/products and documents"
+  },
+  {
+    "Code": "EAC010",
+    "Description": "Description documentation concept"
+  },
+  {
+    "Code": "EAC020",
+    "Description": "Catalogue of symbols"
+  },
+  {
+    "Code": "EBD120",
+    "Description": "Manufacturing inspection plan"
+  },
+  {
+    "Code": "EBE020",
+    "Description": "Time schedule"
+  },
+  {
+    "Code": "EBT010",
+    "Description": "Training document"
+  },
+  {
+    "Code": "EBT020",
+    "Description": "Training program"
+  },
+  {
+    "Code": "ECB010",
+    "Description": "Approval application"
+  },
+  {
+    "Code": "ECC100",
+    "Description": "Confirmation of acceptance"
+  },
+  {
+    "Code": "ECH010",
+    "Description": "Expertise"
+  },
+  {
+    "Code": "EDA010",
+    "Description": "Product data sheet"
+  },
+  {
+    "Code": "EDA020",
+    "Description": "Plant data sheet"
+  },
+  {
+    "Code": "EDB030",
+    "Description": "System description"
+  },
+  {
+    "Code": "EDB060",
+    "Description": "Product description"
+  },
+  {
+    "Code": "EDB070",
+    "Description": "Concept description"
+  },
+  {
+    "Code": "EDB080",
+    "Description": "Explanatory/Design report"
+  },
+  {
+    "Code": "EDC010",
+    "Description": "Instruction for use"
+  },
+  {
+    "Code": "EDC020",
+    "Description": "Operation instruction"
+  },
+  {
+    "Code": "EDC030",
+    "Description": "Instruction for start up"
+  },
+  {
+    "Code": "EDC040",
+    "Description": "Instruction for inspection"
+  },
+  {
+    "Code": "EDC050",
+    "Description": "Instruction for repair"
+  },
+  {
+    "Code": "EDC060",
+    "Description": "Storage specification"
+  },
+  {
+    "Code": "EDC070",
+    "Description": "Instruction for erection"
+  },
+  {
+    "Code": "EDC080",
+    "Description": "Instruction for inspection and test"
+  },
+  {
+    "Code": "EDC090",
+    "Description": "Instruction for service"
+  },
+  {
+    "Code": "EDC100",
+    "Description": "Instruction for disposal"
+  },
+  {
+    "Code": "EDD010",
+    "Description": "Experience report (technical)"
+  },
+  {
+    "Code": "EDD020",
+    "Description": "Result report on the trial operation"
+  },
+  {
+    "Code": "EDD030",
+    "Description": "Start up result report"
+  },
+  {
+    "Code": "EDD040",
+    "Description": "Inspection result report"
+  },
+  {
+    "Code": "EDD050",
+    "Description": "Maintenance result report"
+  },
+  {
+    "Code": "EDD060",
+    "Description": "Repair result report"
+  },
+  {
+    "Code": "EDD070",
+    "Description": "Measurement result report"
+  },
+  {
+    "Code": "EDD080",
+    "Description": "Erection result report"
+  },
+  {
+    "Code": "EDD090",
+    "Description": "Proof result report"
+  },
+  {
+    "Code": "EDD110",
+    "Description": "Investigation report"
+  },
+  {
+    "Code": "EDD120",
+    "Description": "Test result report"
+  },
+  {
+    "Code": "EDE010",
+    "Description": "Product leaflet"
+  },
+  {
+    "Code": "EDE020",
+    "Description": "Catalogue"
+  },
+  {
+    "Code": "EDF010",
+    "Description": "Technical paper"
+  },
+  {
+    "Code": "EDF020",
+    "Description": "Specialist book"
+  },
+  {
+    "Code": "EDF030",
+    "Description": "Technical journal"
+  },
+  {
+    "Code": "EDF040",
+    "Description": "Patent specification"
+  },
+  {
+    "Code": "EDZ010",
+    "Description": "Instruction for normal operation"
+  },
+  {
+    "Code": "EDZ050",
+    "Description": "Assembly instruction"
+  },
+  {
+    "Code": "EDZ070",
+    "Description": "Start up instruction"
+  },
+  {
+    "Code": "EEC010",
+    "Description": "Requirement specification"
+  },
+  {
+    "Code": "EEC020",
+    "Description": "Technical specification"
+  },
+  {
+    "Code": "EED010",
+    "Description": "Design calculation"
+  },
+  {
+    "Code": "EED030",
+    "Description": "Network calculation"
+  },
+  {
+    "Code": "EED040",
+    "Description": "Power balance"
+  },
+  {
+    "Code": "EFA010",
+    "Description": "Overview diagram"
+  },
+  {
+    "Code": "EFA020",
+    "Description": "Tripping schematic"
+  },
+  {
+    "Code": "EFA030",
+    "Description": "Function diagram overview level"
+  },
+  {
+    "Code": "EFA040",
+    "Description": "Function diagram area level"
+  },
+  {
+    "Code": "EFC010",
+    "Description": "MMI plant display"
+  },
+  {
+    "Code": "EFC020",
+    "Description": "MMI bar chart"
+  },
+  {
+    "Code": "EFC030",
+    "Description": "MMI curve display"
+  },
+  {
+    "Code": "EFE010",
+    "Description": "Process description"
+  },
+  {
+    "Code": "EFE020",
+    "Description": "Function description"
+  },
+  {
+    "Code": "EFF010",
+    "Description": "Function diagram"
+  },
+  {
+    "Code": "EFF020",
+    "Description": "Function chart"
+  },
+  {
+    "Code": "EFF030",
+    "Description": "Interlock diagram"
+  },
+  {
+    "Code": "EFF040",
+    "Description": "Sequence chart"
+  },
+  {
+    "Code": "EFF050",
+    "Description": "Equivalent circuit diagram"
+  },
+  {
+    "Code": "EFF060",
+    "Description": "Time sequence chart"
+  },
+  {
+    "Code": "EFP010",
+    "Description": "Signal list"
+  },
+  {
+    "Code": "EFP020",
+    "Description": "Signal exchange list"
+  },
+  {
+    "Code": "EFP030",
+    "Description": "Signal description"
+  },
+  {
+    "Code": "EFQ010",
+    "Description": "Setting list"
+  },
+  {
+    "Code": "EFQ020",
+    "Description": "Limiting value list"
+  },
+  {
+    "Code": "EFQ030",
+    "Description": "Protection setting report"
+  },
+  {
+    "Code": "EFS010",
+    "Description": "Circuit diagram"
+  },
+  {
+    "Code": "EFT010",
+    "Description": "Program description"
+  },
+  {
+    "Code": "EFT020",
+    "Description": "Interface description API (Application Programming Interface)"
+  },
+  {
+    "Code": "EFT030",
+    "Description": "Code list"
+  },
+  {
+    "Code": "ELD010",
+    "Description": "Location plan"
+  },
+  {
+    "Code": "ELD020",
+    "Description": "Arrangement drawing (location)"
+  },
+  {
+    "Code": "ELD030",
+    "Description": "Installation diagram (location)"
+  },
+  {
+    "Code": "ELD040",
+    "Description": "Earthing and lightning protection drawing (location)"
+  },
+  {
+    "Code": "ELD041",
+    "Description": "Earthing drawing (location)"
+  },
+  {
+    "Code": "ELD042",
+    "Description": "Lightning protection drawing (location)"
+  },
+  {
+    "Code": "ELD050",
+    "Description": "Cable routing drawing (location)"
+  },
+  {
+    "Code": "ELH020",
+    "Description": "Arrangement drawing (building)"
+  },
+  {
+    "Code": "ELH030",
+    "Description": "Installation diagram (building)"
+  },
+  {
+    "Code": "ELH040",
+    "Description": "Earthing and lightning protection drawing (building)"
+  },
+  {
+    "Code": "ELH041",
+    "Description": "Earthing drawing (building)"
+  },
+  {
+    "Code": "ELH042",
+    "Description": "Lightning protection drawing (building)"
+  },
+  {
+    "Code": "ELH050",
+    "Description": "Cable routing drawing (building)"
+  },
+  {
+    "Code": "ELU010",
+    "Description": "Arrangement drawing (equipment)"
+  },
+  {
+    "Code": "EMA010",
+    "Description": "Interconnection diagram"
+  },
+  {
+    "Code": "EMA020",
+    "Description": "Terminal connection diagram"
+  },
+  {
+    "Code": "EMA030",
+    "Description": "Unit connection diagram"
+  },
+  {
+    "Code": "EMB010",
+    "Description": "Cable laying list"
+  },
+  {
+    "Code": "EMB020",
+    "Description": "Cable pulling card"
+  },
+  {
+    "Code": "EMB030",
+    "Description": "Cable routing list"
+  },
+  {
+    "Code": "EMB050",
+    "Description": "Support drawing"
+  },
+  {
+    "Code": "EPA010",
+    "Description": "Material list"
+  },
+  {
+    "Code": "EPA020",
+    "Description": "Consumable item list"
+  },
+  {
+    "Code": "EPA030",
+    "Description": "Instrument list"
+  },
+  {
+    "Code": "EPA050",
+    "Description": "Tool list"
+  },
+  {
+    "Code": "EPA070",
+    "Description": "Working material list"
+  },
+  {
+    "Code": "EPB010",
+    "Description": "Parts list"
+  },
+  {
+    "Code": "EPD010",
+    "Description": "Product type list"
+  },
+  {
+    "Code": "EPF010",
+    "Description": "Function list"
+  },
+  {
+    "Code": "EPF020",
+    "Description": "List of systems"
+  },
+  {
+    "Code": "EQB030",
+    "Description": "Warning and safety note"
+  },
+  {
+    "Code": "EQC010",
+    "Description": "Declaration of conformity (according to law)"
+  },
+  {
+    "Code": "EQC020",
+    "Description": "Declaration of conformity (according to contract)"
+  },
+  {
+    "Code": "EQC030",
+    "Description": "Environment certificate"
+  },
+  {
+    "Code": "EQC040",
+    "Description": "Test certificate"
+  },
+  {
+    "Code": "EQC050",
+    "Description": "Acceptance report"
+  },
+  {
+    "Code": "EQC060",
+    "Description": "Calibration verification"
+  },
+  {
+    "Code": "EQC120",
+    "Description": "Proof of waste disposal"
+  },
+  {
+    "Code": "ETA010",
+    "Description": "Design drawing"
+  },
+  {
+    "Code": "ETB010",
+    "Description": "Dimensional drawing"
+  },
+  {
+    "Code": "ETB030",
+    "Description": "Component drawing"
+  },
+  {
+    "Code": "ETB040",
+    "Description": "Interface drawing"
+  },
+  {
+    "Code": "ETC010",
+    "Description": "Measurement arrangement (Hook-up)"
+  },
+  {
+    "Code": "ETC020",
+    "Description": "Erection drawing"
+  },
+  {
+    "Code": "ETC030",
+    "Description": "Manufacturing drawing"
+  },
+  {
+    "Code": "ETC040",
+    "Description": "Pattern drawing"
+  },
+  {
+    "Code": "EWA010",
+    "Description": "Setting value document"
+  },
+  {
+    "Code": "EWT010",
+    "Description": "Operational log sheet"
+  },
+  {
+    "Code": "EWT030",
+    "Description": "Key log"
+  },
+  {
+    "Code": "MAA010",
+    "Description": "Cover sheet of a document set"
+  },
+  {
+    "Code": "MAA020",
+    "Description": "Instruction for updating"
+  },
+  {
+    "Code": "MAB010",
+    "Description": "List of documents"
+  },
+  {
+    "Code": "MAB020",
+    "Description": "List of relations between system/products and documents"
+  },
+  {
+    "Code": "MAC010",
+    "Description": "Description documentation concept"
+  },
+  {
+    "Code": "MAC020",
+    "Description": "Catalogue of symbols"
+  },
+  {
+    "Code": "MBD120",
+    "Description": "Manufacturing inspection plan"
+  },
+  {
+    "Code": "MBE020",
+    "Description": "Time schedule"
+  },
+  {
+    "Code": "MBT010",
+    "Description": "Training document"
+  },
+  {
+    "Code": "MBT020",
+    "Description": "Training program"
+  },
+  {
+    "Code": "MCC100",
+    "Description": "Confirmation of acceptance"
+  },
+  {
+    "Code": "MCH010",
+    "Description": "Expertise"
+  },
+  {
+    "Code": "MDA010",
+    "Description": "Product data sheet"
+  },
+  {
+    "Code": "MDA020",
+    "Description": "Plant data sheet"
+  },
+  {
+    "Code": "MDB030",
+    "Description": "System description"
+  },
+  {
+    "Code": "MDB060",
+    "Description": "Product description"
+  },
+  {
+    "Code": "MDB070",
+    "Description": "Concept description"
+  },
+  {
+    "Code": "MDB080",
+    "Description": "Explanatory/Design report"
+  },
+  {
+    "Code": "MDC010",
+    "Description": "Instruction for use"
+  },
+  {
+    "Code": "MDC020",
+    "Description": "Operation instruction"
+  },
+  {
+    "Code": "MDC030",
+    "Description": "Instruction for start up"
+  },
+  {
+    "Code": "MDC040",
+    "Description": "Instruction for inspection"
+  },
+  {
+    "Code": "MDC050",
+    "Description": "Instruction for repair"
+  },
+  {
+    "Code": "MDC060",
+    "Description": "Storage specification"
+  },
+  {
+    "Code": "MDC070",
+    "Description": "Instruction for erection"
+  },
+  {
+    "Code": "MDC080",
+    "Description": "Instruction for inspection and test"
+  },
+  {
+    "Code": "MDC090",
+    "Description": "Instruction for service"
+  },
+  {
+    "Code": "MDC100",
+    "Description": "Instruction for disposal"
+  },
+  {
+    "Code": "MDD010",
+    "Description": "Experience report (technical)"
+  },
+  {
+    "Code": "MDD020",
+    "Description": "Result report on the trial operation"
+  },
+  {
+    "Code": "MDD030",
+    "Description": "Start up result report"
+  },
+  {
+    "Code": "MDD040",
+    "Description": "Inspection result report"
+  },
+  {
+    "Code": "MDD050",
+    "Description": "Maintenance result report"
+  },
+  {
+    "Code": "MDD060",
+    "Description": "Repair result report"
+  },
+  {
+    "Code": "MDD070",
+    "Description": "Measurement result report"
+  },
+  {
+    "Code": "MDD080",
+    "Description": "Erection result report"
+  },
+  {
+    "Code": "MDD090",
+    "Description": "Proof result report"
+  },
+  {
+    "Code": "MDD110",
+    "Description": "Investigation report"
+  },
+  {
+    "Code": "MDD120",
+    "Description": "Test result report"
+  },
+  {
+    "Code": "MDE010",
+    "Description": "Product leaflet"
+  },
+  {
+    "Code": "MDE020",
+    "Description": "Catalogue"
+  },
+  {
+    "Code": "MDF010",
+    "Description": "Technical paper"
+  },
+  {
+    "Code": "MDF020",
+    "Description": "Specialist book"
+  },
+  {
+    "Code": "MDF030",
+    "Description": "Technical journal"
+  },
+  {
+    "Code": "MDF040",
+    "Description": "Patent specification"
+  },
+  {
+    "Code": "MDZ010",
+    "Description": "Instruction for normal operation"
+  },
+  {
+    "Code": "MDZ050",
+    "Description": "Assembly instruction"
+  },
+  {
+    "Code": "MDZ070",
+    "Description": "Start up instruction"
+  },
+  {
+    "Code": "MEC010",
+    "Description": "Requirement specification"
+  },
+  {
+    "Code": "MEC020",
+    "Description": "Technical specification"
+  },
+  {
+    "Code": "MED010",
+    "Description": "Design calculation"
+  },
+  {
+    "Code": "MED020",
+    "Description": "Strength calculation"
+  },
+  {
+    "Code": "MED030",
+    "Description": "Network calculation"
+  },
+  {
+    "Code": "MED040",
+    "Description": "Power balance"
+  },
+  {
+    "Code": "MFA020",
+    "Description": "Tripping schematic"
+  },
+  {
+    "Code": "MFB010",
+    "Description": "Block flow diagram"
+  },
+  {
+    "Code": "MFB020",
+    "Description": "Process flow diagram"
+  },
+  {
+    "Code": "MFB030",
+    "Description": "P&ID"
+  },
+  {
+    "Code": "MFB040",
+    "Description": "Thermodynamic network"
+  },
+  {
+    "Code": "MFB050",
+    "Description": "Utility flow diagram"
+  },
+  {
+    "Code": "MFB060",
+    "Description": "Energy flow diagram"
+  },
+  {
+    "Code": "MFE010",
+    "Description": "Process description"
+  },
+  {
+    "Code": "MFE020",
+    "Description": "Function description"
+  },
+  {
+    "Code": "MFF020",
+    "Description": "Function chart"
+  },
+  {
+    "Code": "MFF040",
+    "Description": "Sequence chart"
+  },
+  {
+    "Code": "MFF060",
+    "Description": "Time sequence chart"
+  },
+  {
+    "Code": "MFQ010",
+    "Description": "Setting list"
+  },
+  {
+    "Code": "MFQ020",
+    "Description": "Limiting value list"
+  },
+  {
+    "Code": "MFQ030",
+    "Description": "Protection setting report"
+  },
+  {
+    "Code": "MFS020",
+    "Description": "Hydraulic circuit diagram"
+  },
+  {
+    "Code": "MFS030",
+    "Description": "Pneumatic drawing"
+  },
+  {
+    "Code": "MLD010",
+    "Description": "Location plan"
+  },
+  {
+    "Code": "MLD020",
+    "Description": "Arrangement drawing (location)"
+  },
+  {
+    "Code": "MLH020",
+    "Description": "Arrangement drawing (building)"
+  },
+  {
+    "Code": "MLU010",
+    "Description": "Arrangement drawing (equipment)"
+  },
+  {
+    "Code": "MMA010",
+    "Description": "Interconnection diagram"
+  },
+  {
+    "Code": "MMA020",
+    "Description": "Terminal connection diagram"
+  },
+  {
+    "Code": "MMB040",
+    "Description": "Piping list"
+  },
+  {
+    "Code": "MMB050",
+    "Description": "Support drawing"
+  },
+  {
+    "Code": "MPA010",
+    "Description": "Material list"
+  },
+  {
+    "Code": "MPA020",
+    "Description": "Consumable item list"
+  },
+  {
+    "Code": "MPA030",
+    "Description": "Instrument list"
+  },
+  {
+    "Code": "MPA040",
+    "Description": "Hoisting device list"
+  },
+  {
+    "Code": "MPA050",
+    "Description": "Tool list"
+  },
+  {
+    "Code": "MPA070",
+    "Description": "Working material list"
+  },
+  {
+    "Code": "MPB010",
+    "Description": "Parts list"
+  },
+  {
+    "Code": "MPD010",
+    "Description": "Product type list"
+  },
+  {
+    "Code": "MPF020",
+    "Description": "List of systems"
+  },
+  {
+    "Code": "MQB030",
+    "Description": "Warning and safety note"
+  },
+  {
+    "Code": "MQC010",
+    "Description": "Declaration of conformity (according to law)"
+  },
+  {
+    "Code": "MQC020",
+    "Description": "Declaration of conformity (according to contract)"
+  },
+  {
+    "Code": "MQC021",
+    "Description": "Welding filler certificate"
+  },
+  {
+    "Code": "MQC022",
+    "Description": "Test report 2.1/ 2.2"
+  },
+  {
+    "Code": "MQC023",
+    "Description": "Inspection certificate 3.1/ 3.2"
+  },
+  {
+    "Code": "MQC040",
+    "Description": "Test certificate"
+  },
+  {
+    "Code": "MQC041",
+    "Description": "Alignment protocol"
+  },
+  {
+    "Code": "MQC042",
+    "Description": "Mock-up protocol"
+  },
+  {
+    "Code": "MQC043",
+    "Description": "Pressure test certificate"
+  },
+  {
+    "Code": "MQC050",
+    "Description": "Acceptance report"
+  },
+  {
+    "Code": "MQC060",
+    "Description": "Calibration verification"
+  },
+  {
+    "Code": "MQC070",
+    "Description": "Welding record"
+  },
+  {
+    "Code": "MQC080",
+    "Description": "Heat treatment record"
+  },
+  {
+    "Code": "MQC100",
+    "Description": "NDT protocol"
+  },
+  {
+    "Code": "MQC101",
+    "Description": "HT protocol"
+  },
+  {
+    "Code": "MQC102",
+    "Description": "MT/PT protocol"
+  },
+  {
+    "Code": "MQC103",
+    "Description": "PMI protocol"
+  },
+  {
+    "Code": "MQC104",
+    "Description": "UT/RT protocol"
+  },
+  {
+    "Code": "MQC105",
+    "Description": "VT  protocol"
+  },
+  {
+    "Code": "MQC110",
+    "Description": "Application for toleration"
+  },
+  {
+    "Code": "MQC120",
+    "Description": "Proof of waste disposal"
+  },
+  {
+    "Code": "MTA010",
+    "Description": "Design drawing"
+  },
+  {
+    "Code": "MTB010",
+    "Description": "Dimensional drawing"
+  },
+  {
+    "Code": "MTB020",
+    "Description": "Isometric"
+  },
+  {
+    "Code": "MTB030",
+    "Description": "Component drawing"
+  },
+  {
+    "Code": "MTB040",
+    "Description": "Interface drawing"
+  },
+  {
+    "Code": "MTC010",
+    "Description": "Measurement arrangement (Hook-up)"
+  },
+  {
+    "Code": "MTC020",
+    "Description": "Erection drawing"
+  },
+  {
+    "Code": "MTC030",
+    "Description": "Manufacturing drawing"
+  },
+  {
+    "Code": "MTC040",
+    "Description": "Pattern drawing"
+  },
+  {
+    "Code": "MWA010",
+    "Description": "Setting value document"
+  },
+  {
+    "Code": "MWT010",
+    "Description": "Operational log sheet"
+  }
+]

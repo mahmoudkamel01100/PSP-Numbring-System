@@ -1,0 +1,58 @@
+[
+  {
+    "Project ID": "1",
+    "Project Name": "COA Projects",
+    "Project Img": "assets/images/COA.png",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Arrass -SQR.json"
+  },
+  {
+    "Project ID": "2",
+    "Project Name": "WOA Projects",
+    "Project Img": "assets/images/WOA.png",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Khafah -SQR.json"
+  },
+  {
+    "Project ID": "3",
+    "Project Name": "1089 - Matra CCPP",
+    "Project Img": "assets/images/matra.jpg",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Ghat -SQR.json"
+  },
+  {
+    "Project ID": "4",
+    "Project Name": "2011 Rabigh Combined Cycle Power Plant",
+    "Project Img": "assets/images/rabigh.jpg",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Rabigh -SQR.json"
+  },
+  {
+    "Project ID": "5",
+    "Project Name": "2019 KSA NAQUA",
+    "Project Img": "assets/images/NAQUA.webp",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Rabigh -SQR.json"
+  },
+  {
+    "Project ID": "6",
+    "Project Name": "2021 - Al Mourjan",
+    "Project Img": "assets/images/Mourjan.jpg",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Mourjan -SQR.json"
+  },
+  {
+    "Project ID": "7",
+    "Project Name": "9001 - Energy Bank (Greece)",
+    "Project Img": "assets/images/EnergyBank.webp",
+    "KKS": "assets/json/KKS.json",
+    "DccCode": "assets/json/DccCode.json",
+    "SQR": "assets/json/SQR/Al Khafah -SQR.json"
+  }
+]

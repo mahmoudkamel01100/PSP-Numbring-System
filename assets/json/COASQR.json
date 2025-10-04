@@ -1,0 +1,386 @@
+[
+  {
+    "Project": "ARRASS",
+    "ID": "1",
+    "Discipline": "General",
+    "Section": "General",
+    "Start Range": "100001",
+    "End Range": "101000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "2",
+    "Discipline": "Civil",
+    "Section": "Concrete",
+    "Start Range": "101001",
+    "End Range": "102000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "3",
+    "Discipline": "Civil",
+    "Section": "Steel",
+    "Start Range": "102001",
+    "End Range": "103000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "4",
+    "Discipline": "Civil",
+    "Section": "Geotechnical",
+    "Start Range": "103001",
+    "End Range": "104000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "5",
+    "Discipline": "Civil",
+    "Section": "Infrastructure",
+    "Start Range": "104001",
+    "End Range": "105000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "6",
+    "Discipline": "Civil",
+    "Section": "MEP",
+    "Start Range": "105001",
+    "End Range": "106000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "7",
+    "Discipline": "Civil",
+    "Section": "Architecture",
+    "Start Range": "106001",
+    "End Range": "107000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "8",
+    "Discipline": "Civil",
+    "Section": "General",
+    "Start Range": "107001",
+    "End Range": "108000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "9",
+    "Discipline": "Electrical",
+    "Section": "General",
+    "Start Range": "108001",
+    "End Range": "109000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "10",
+    "Discipline": "Electrical",
+    "Section": "Primary",
+    "Start Range": "109001",
+    "End Range": "110000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "11",
+    "Discipline": "Electrical",
+    "Section": "Secondary",
+    "Start Range": "110001",
+    "End Range": "111000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "12",
+    "Discipline": "Electrical",
+    "Section": "MEP",
+    "Start Range": "111001",
+    "End Range": "112000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "13",
+    "Discipline": "Mechanical",
+    "Section": "Process",
+    "Start Range": "112001",
+    "End Range": "113000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "14",
+    "Discipline": "Mechanical",
+    "Section": "Plant Design",
+    "Start Range": "113001",
+    "End Range": "114000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "15",
+    "Discipline": "I&C",
+    "Section": "General",
+    "Start Range": "114001",
+    "End Range": "115000"
+  },
+  {
+    "Project": "ARRASS",
+    "ID": "16",
+    "Discipline": "I&C",
+    "Section": "I&C",
+    "Start Range": "115001",
+    "End Range": "116000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "1",
+    "Discipline": "General",
+    "Section": "General",
+    "Start Range": "200001",
+    "End Range": "201000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "2",
+    "Discipline": "Civil",
+    "Section": "Concrete",
+    "Start Range": "201001",
+    "End Range": "202000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "3",
+    "Discipline": "Civil",
+    "Section": "Steel",
+    "Start Range": "202001",
+    "End Range": "203000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "4",
+    "Discipline": "Civil",
+    "Section": "Geotechnical",
+    "Start Range": "203001",
+    "End Range": "204000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "5",
+    "Discipline": "Civil",
+    "Section": "Infrastructure",
+    "Start Range": "204001",
+    "End Range": "205000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "6",
+    "Discipline": "Civil",
+    "Section": "MEP",
+    "Start Range": "205001",
+    "End Range": "206000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "7",
+    "Discipline": "Civil",
+    "Section": "Architecture",
+    "Start Range": "206001",
+    "End Range": "207000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "8",
+    "Discipline": "Civil",
+    "Section": "General",
+    "Start Range": "207001",
+    "End Range": "208000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "9",
+    "Discipline": "Electrical",
+    "Section": "General",
+    "Start Range": "208001",
+    "End Range": "209000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "10",
+    "Discipline": "Electrical",
+    "Section": "Primary",
+    "Start Range": "209001",
+    "End Range": "210000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "11",
+    "Discipline": "Electrical",
+    "Section": "Secondary",
+    "Start Range": "210001",
+    "End Range": "211000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "12",
+    "Discipline": "Electrical",
+    "Section": "MEP",
+    "Start Range": "211001",
+    "End Range": "212000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "13",
+    "Discipline": "Mechanical",
+    "Section": "Process",
+    "Start Range": "212001",
+    "End Range": "213000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "14",
+    "Discipline": "Mechanical",
+    "Section": "Plant Design",
+    "Start Range": "213001",
+    "End Range": "214000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "15",
+    "Discipline": "I&C",
+    "Section": "General",
+    "Start Range": "214001",
+    "End Range": "215000"
+  },
+  {
+    "Project": "AL GHAT",
+    "ID": "16",
+    "Discipline": "I&C",
+    "Section": "I&C",
+    "Start Range": "215001",
+    "End Range": "216000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "1",
+    "Discipline": "General",
+    "Section": "General",
+    "Start Range": "300001",
+    "End Range": "301000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "2",
+    "Discipline": "Civil",
+    "Section": "Concrete",
+    "Start Range": "301001",
+    "End Range": "302000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "3",
+    "Discipline": "Civil",
+    "Section": "Steel",
+    "Start Range": "302001",
+    "End Range": "303000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "4",
+    "Discipline": "Civil",
+    "Section": "Geotechnical",
+    "Start Range": "303001",
+    "End Range": "304000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "5",
+    "Discipline": "Civil",
+    "Section": "Infrastructure",
+    "Start Range": "304001",
+    "End Range": "305000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "6",
+    "Discipline": "Civil",
+    "Section": "MEP",
+    "Start Range": "305001",
+    "End Range": "306000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "7",
+    "Discipline": "Civil",
+    "Section": "Architecture",
+    "Start Range": "306001",
+    "End Range": "307000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "8",
+    "Discipline": "Civil",
+    "Section": "General",
+    "Start Range": "307001",
+    "End Range": "308000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "9",
+    "Discipline": "Electrical",
+    "Section": "General",
+    "Start Range": "308001",
+    "End Range": "309000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "10",
+    "Discipline": "Electrical",
+    "Section": "Primary",
+    "Start Range": "309001",
+    "End Range": "310000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "11",
+    "Discipline": "Electrical",
+    "Section": "Secondary",
+    "Start Range": "310001",
+    "End Range": "311000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "12",
+    "Discipline": "Electrical",
+    "Section": "MEP",
+    "Start Range": "311001",
+    "End Range": "312000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "13",
+    "Discipline": "Mechanical",
+    "Section": "Process",
+    "Start Range": "312001",
+    "End Range": "313000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "14",
+    "Discipline": "Mechanical",
+    "Section": "Plant Design",
+    "Start Range": "313001",
+    "End Range": "314000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "15",
+    "Discipline": "I&C",
+    "Section": "General",
+    "Start Range": "314001",
+    "End Range": "315000"
+  },
+  {
+    "Project": "AL Khafah",
+    "ID": "16",
+    "Discipline": "I&C",
+    "Section": "I&C",
+    "Start Range": "315001",
+    "End Range": "316000"
+  }
+]

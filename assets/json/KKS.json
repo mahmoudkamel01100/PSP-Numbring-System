@@ -1,0 +1,5278 @@
+[
+  {
+    "Code": "BAA",
+    "Description": "Generator lead"
+  },
+  {
+    "Code": "BAB",
+    "Description": "Foundation cabinet"
+  },
+  {
+    "Code": "BAC",
+    "Description": "Generator circuit breaker, also commutating pole circuit breaker, incl. cooling system"
+  },
+  {
+    "Code": "BAE",
+    "Description": "Converter"
+  },
+  {
+    "Code": "BAS",
+    "Description": "Compensation"
+  },
+  {
+    "Code": "BAT",
+    "Description": "Generator transformer, including cooling system"
+  },
+  {
+    "Code": "BAU",
+    "Description": "Earthing and lightning protection system"
+  },
+  {
+    "Code": "BAX",
+    "Description": "Control air supply system"
+  },
+  {
+    "Code": "BAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BBA",
+    "Description": "Medium voltage distribution board, normal system"
+  },
+  {
+    "Code": "BBT",
+    "Description": "Medium voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BCA",
+    "Description": "Medium voltage distribution board, general purpose"
+  },
+  {
+    "Code": "BCT",
+    "Description": "Start-up, offsite, general-purpose transformer"
+  },
+  {
+    "Code": "BCY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BDA",
+    "Description": "Medium voltage emergency distribution board"
+  },
+  {
+    "Code": "BDT",
+    "Description": "Medium voltage transformer"
+  },
+  {
+    "Code": "BDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BFA",
+    "Description": "Low voltage main distribution board, normal system"
+  },
+  {
+    "Code": "BFT",
+    "Description": "Low voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BFY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BHA",
+    "Description": "Low voltage main distribution board, general purpose"
+  },
+  {
+    "Code": "BHT",
+    "Description": "Low voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BHY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BJA",
+    "Description": "Low voltage subdistribution board, normal system"
+  },
+  {
+    "Code": "BJT",
+    "Description": "Low voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BJY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BLA",
+    "Description": "Low voltage subdistribution board, general-purpose (local switchgear)"
+  },
+  {
+    "Code": "BLT",
+    "Description": "Low voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BLY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BMA",
+    "Description": "Low voltage emergency distribution board"
+  },
+  {
+    "Code": "BMT",
+    "Description": "Low voltage auxiliary power transformer"
+  },
+  {
+    "Code": "BMY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BRA",
+    "Description": "Low voltage distribution board, uninterruptible (converter) power supply"
+  },
+  {
+    "Code": "BRT",
+    "Description": "Converter (rotary)"
+  },
+  {
+    "Code": "BRU",
+    "Description": "Converter (static), inverter"
+  },
+  {
+    "Code": "BRV",
+    "Description": "Emergency power generating equipment"
+  },
+  {
+    "Code": "BRY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BTA",
+    "Description": "Battery"
+  },
+  {
+    "Code": "BTL",
+    "Description": "Rectifier, battery charger"
+  },
+  {
+    "Code": "BTW",
+    "Description": "Common equipment"
+  },
+  {
+    "Code": "BUA",
+    "Description": "DC distribution board, normal system"
+  },
+  {
+    "Code": "BUY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "BVA",
+    "Description": "DC emergency distribution board"
+  },
+  {
+    "Code": "BVY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "CAA",
+    "Description": "Cabinet for protective interlocks"
+  },
+  {
+    "Code": "CAR",
+    "Description": "Cabinets for protective interlocks. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CBA",
+    "Description": "Cabinet for functional group control"
+  },
+  {
+    "Code": "CBP",
+    "Description": "Cabinet for synchronization"
+  },
+  {
+    "Code": "CBQ",
+    "Description": "Cabinet for auxiliary power changeover"
+  },
+  {
+    "Code": "CBR",
+    "Description": "Cabinet for functional group control. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CCA",
+    "Description": "Cabinet for binary signal conditioning"
+  },
+  {
+    "Code": "CCR",
+    "Description": "Cabinet for binary signal conditioning. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CDA",
+    "Description": "Cabinet for drive control interface"
+  },
+  {
+    "Code": "CDR",
+    "Description": "Cabinets for drive control interface. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CEA",
+    "Description": "Cabinet for annunciation system"
+  },
+  {
+    "Code": "CEJ",
+    "Description": "Fault recording"
+  },
+  {
+    "Code": "CER",
+    "Description": "Cabinets for annunciation systems. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CFA",
+    "Description": "Cabinet for measurement"
+  },
+  {
+    "Code": "CFG",
+    "Description": "Cabinets for reactor instrumentation"
+  },
+  {
+    "Code": "CFL",
+    "Description": "Cabinets for radiation measurement"
+  },
+  {
+    "Code": "CFQ",
+    "Description": "Cabinet for recording (meters, pen recorders)"
+  },
+  {
+    "Code": "CFR",
+    "Description": "Cabinets for measurement. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CGA",
+    "Description": "Cabinet for closed-loop control"
+  },
+  {
+    "Code": "CGJ",
+    "Description": "Cabinets for reactor control"
+  },
+  {
+    "Code": "CGR",
+    "Description": "Cabinets for closed-loop control. Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CHA",
+    "Description": "Cabinet for generator and transformer protection"
+  },
+  {
+    "Code": "CJA",
+    "Description": "Unit control system (including cabinets)"
+  },
+  {
+    "Code": "CJD",
+    "Description": "Start-up control, setpoint control (unit) (incl. cabinets)"
+  },
+  {
+    "Code": "CJF",
+    "Description": "Boiler control system (incl. cabinets)"
+  },
+  {
+    "Code": "CJJ",
+    "Description": "Instrumentation and control cabinet for steam turbine set"
+  },
+  {
+    "Code": "CJP",
+    "Description": "Instrumentation and control cabinet for gas turbine set"
+  },
+  {
+    "Code": "CJU",
+    "Description": "Instrumentation and control for other main and heavy machinery"
+  },
+  {
+    "Code": "CKA",
+    "Description": "Online supervisory and diagnostic computer"
+  },
+  {
+    "Code": "CKJ",
+    "Description": "Access control computer"
+  },
+  {
+    "Code": "CKN",
+    "Description": "Process computer system"
+  },
+  {
+    "Code": "CRA",
+    "Description": "Automation system, non-fail-safe"
+  },
+  {
+    "Code": "CRJ",
+    "Description": "Automation system, fail-safe"
+  },
+  {
+    "Code": "CRK",
+    "Description": "Automation system, high availability"
+  },
+  {
+    "Code": "CRL",
+    "Description": "Enclosure (e.g. cabinet)"
+  },
+  {
+    "Code": "CRM",
+    "Description": "Enclosure (e.g. local box)"
+  },
+  {
+    "Code": "CRN",
+    "Description": "Process control system"
+  },
+  {
+    "Code": "CRR",
+    "Description": "Communication (e.g. terminal bus)"
+  },
+  {
+    "Code": "CRS",
+    "Description": "Communication (e.g. plant bus)"
+  },
+  {
+    "Code": "CRT",
+    "Description": "Communication (e.g. field bus)"
+  },
+  {
+    "Code": "CRU",
+    "Description": "Operation and monitoring"
+  },
+  {
+    "Code": "CRV",
+    "Description": "Engineering"
+  },
+  {
+    "Code": "CRW",
+    "Description": "Control system diagnostics"
+  },
+  {
+    "Code": "CRX",
+    "Description": "Process optimization"
+  },
+  {
+    "Code": "CRY",
+    "Description": "Process control system"
+  },
+  {
+    "Code": "CUR",
+    "Description": "Closed-loop control (power section). Installation in the secured area (of the nuclear power plant)"
+  },
+  {
+    "Code": "CWA",
+    "Description": "Main control console"
+  },
+  {
+    "Code": "CWF",
+    "Description": "Main control panel"
+  },
+  {
+    "Code": "CYA",
+    "Description": "Telephone system (PABX)"
+  },
+  {
+    "Code": "CYB",
+    "Description": "Control console telephone system"
+  },
+  {
+    "Code": "CYC",
+    "Description": "Alarm system (acoustic)"
+  },
+  {
+    "Code": "CYD",
+    "Description": "Alarm system (optical)"
+  },
+  {
+    "Code": "CYE",
+    "Description": "Fire alarm system"
+  },
+  {
+    "Code": "CYF",
+    "Description": "Clock system"
+  },
+  {
+    "Code": "CYG",
+    "Description": "Remote control system"
+  },
+  {
+    "Code": "CYH",
+    "Description": "Telemetry system"
+  },
+  {
+    "Code": "CYJ",
+    "Description": "Remote metering system"
+  },
+  {
+    "Code": "CYK",
+    "Description": "HF carrier telephone system"
+  },
+  {
+    "Code": "CYL",
+    "Description": "Staff paging system"
+  },
+  {
+    "Code": "CYP",
+    "Description": "Optical monitoring system"
+  },
+  {
+    "Code": "CYQ",
+    "Description": "Gas detection system"
+  },
+  {
+    "Code": "CYR",
+    "Description": "Pneumatic tube conveyor"
+  },
+  {
+    "Code": "CYS",
+    "Description": "Radiotelephone system"
+  },
+  {
+    "Code": "CYT",
+    "Description": "Intrusion detection system"
+  },
+  {
+    "Code": "CYU",
+    "Description": "Access control system"
+  },
+  {
+    "Code": "CYV",
+    "Description": "Plant and production management system"
+  },
+  {
+    "Code": "CYW",
+    "Description": "Communication and information system"
+  },
+  {
+    "Code": "EAA",
+    "Description": "Ship loading and unloading system"
+  },
+  {
+    "Code": "EAB",
+    "Description": "Rail wagon and truck loading and unloading bay"
+  },
+  {
+    "Code": "EAC",
+    "Description": "Transport system"
+  },
+  {
+    "Code": "EAD",
+    "Description": "Stacking system"
+  },
+  {
+    "Code": "EAE",
+    "Description": "Bunker system, storage area (stockyard)"
+  },
+  {
+    "Code": "EAF",
+    "Description": "Bucket wheel system, reclaimer system"
+  },
+  {
+    "Code": "EAT",
+    "Description": "Weighing equipment"
+  },
+  {
+    "Code": "EAU",
+    "Description": "Sampling equipment"
+  },
+  {
+    "Code": "EAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EBA",
+    "Description": "Transport system"
+  },
+  {
+    "Code": "EBB",
+    "Description": "Mixing system"
+  },
+  {
+    "Code": "EBC",
+    "Description": "Crushing system, pulverizing system"
+  },
+  {
+    "Code": "EBD",
+    "Description": "Screening system"
+  },
+  {
+    "Code": "EBE",
+    "Description": "Separator system and discharge equipment thereof"
+  },
+  {
+    "Code": "EBF",
+    "Description": "Temporary storage system for milled raw coal"
+  },
+  {
+    "Code": "EBG",
+    "Description": "Predrying system"
+  },
+  {
+    "Code": "EBH",
+    "Description": "Main drying system"
+  },
+  {
+    "Code": "EBJ",
+    "Description": "Dried coal transport system incl. aftercooling"
+  },
+  {
+    "Code": "EBK",
+    "Description": "Dried coal temporary storage system"
+  },
+  {
+    "Code": "EBL",
+    "Description": "Vapor compressor system"
+  },
+  {
+    "Code": "EBM",
+    "Description": "Exhaust system"
+  },
+  {
+    "Code": "EBR",
+    "Description": "Residues removal system"
+  },
+  {
+    "Code": "EBT",
+    "Description": "Weighing equipment"
+  },
+  {
+    "Code": "EBU",
+    "Description": "Sampling equipment"
+  },
+  {
+    "Code": "EBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "ECT",
+    "Description": "Weighing equipment"
+  },
+  {
+    "Code": "ECU",
+    "Description": "Sampling equipment"
+  },
+  {
+    "Code": "ECY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EGA",
+    "Description": "Receiving equipment incl. pipeline"
+  },
+  {
+    "Code": "EGB",
+    "Description": "Tank farm"
+  },
+  {
+    "Code": "EGC",
+    "Description": "Pump system"
+  },
+  {
+    "Code": "EGD",
+    "Description": "Piping system"
+  },
+  {
+    "Code": "EGE",
+    "Description": "Mechanical cleaning, scrubbing"
+  },
+  {
+    "Code": "EGF",
+    "Description": "Temporary storage system"
+  },
+  {
+    "Code": "EGG",
+    "Description": "Preheating"
+  },
+  {
+    "Code": "EGR",
+    "Description": "Residues removal system"
+  },
+  {
+    "Code": "EGT",
+    "Description": "Heating medium system"
+  },
+  {
+    "Code": "EGU",
+    "Description": "Billing meter station"
+  },
+  {
+    "Code": "EGX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "EGY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EHX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "EHY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EKA",
+    "Description": "Receiving equipment incl. pipeline"
+  },
+  {
+    "Code": "EKB",
+    "Description": "Scrubber system"
+  },
+  {
+    "Code": "EKC",
+    "Description": "Heating system"
+  },
+  {
+    "Code": "EKD",
+    "Description": "Main reducing station, expansion turbine"
+  },
+  {
+    "Code": "EKE",
+    "Description": "Mechanical cleaning, scrubbing"
+  },
+  {
+    "Code": "EKF",
+    "Description": "Storage system"
+  },
+  {
+    "Code": "EKG",
+    "Description": "Piping system"
+  },
+  {
+    "Code": "EKH",
+    "Description": "Main pressure boosting system"
+  },
+  {
+    "Code": "EKR",
+    "Description": "Residues removal system"
+  },
+  {
+    "Code": "EKT",
+    "Description": "Fuel gas preheating system"
+  },
+  {
+    "Code": "EKU",
+    "Description": "Billing meter station"
+  },
+  {
+    "Code": "EKX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "EKY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "ENX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "ENY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EPX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "EPY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "ERA",
+    "Description": "Pulverized coal supply system"
+  },
+  {
+    "Code": "ERB",
+    "Description": "Oil supply system"
+  },
+  {
+    "Code": "ERC",
+    "Description": "Gas supply system"
+  },
+  {
+    "Code": "ERY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "ETA",
+    "Description": "Wet ash conveying system"
+  },
+  {
+    "Code": "ETB",
+    "Description": "Storage or settling pond for wet ash"
+  },
+  {
+    "Code": "ETC",
+    "Description": "Wet ash dredger"
+  },
+  {
+    "Code": "ETD",
+    "Description": "Conveying system for granulate"
+  },
+  {
+    "Code": "ETE",
+    "Description": "Storage system for granulate"
+  },
+  {
+    "Code": "ETG",
+    "Description": "Conveying system for dry ash"
+  },
+  {
+    "Code": "ETH",
+    "Description": "Storage system for dry ash"
+  },
+  {
+    "Code": "ETK",
+    "Description": "Common conveying system for wet and dry ash"
+  },
+  {
+    "Code": "ETL",
+    "Description": "Common storage system for wet and dry ash"
+  },
+  {
+    "Code": "ETM",
+    "Description": "Settling plant for wet and dry ash"
+  },
+  {
+    "Code": "ETN",
+    "Description": "Forwarding, distribution, recovery and disposal system for flushing and ash water"
+  },
+  {
+    "Code": "ETP",
+    "Description": "Generation and distribution system for carrier air"
+  },
+  {
+    "Code": "ETX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "ETY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "EUA",
+    "Description": "Treatment system for fuel treatment residues"
+  },
+  {
+    "Code": "EUB",
+    "Description": "Treatment system for fuel conversion residues"
+  },
+  {
+    "Code": "EUC",
+    "Description": "Treatment system for fuel combustion residues"
+  },
+  {
+    "Code": "EUD",
+    "Description": "Treatment system for flue gas cleaning residues"
+  },
+  {
+    "Code": "EUE",
+    "Description": "Treatment system for gas generation and treatment residues"
+  },
+  {
+    "Code": "EUF",
+    "Description": "Treatment system for fuel treatment residues"
+  },
+  {
+    "Code": "EUH",
+    "Description": "Treatment system for fuel conversion residues"
+  },
+  {
+    "Code": "EUK",
+    "Description": "Treatment system for fuel combustion residues"
+  },
+  {
+    "Code": "EUM",
+    "Description": "Treatment system for flue gas cleaning residues"
+  },
+  {
+    "Code": "EUP",
+    "Description": "Treatment system for gas generation and treatment residues"
+  },
+  {
+    "Code": "FAA",
+    "Description": "New fuel assemblies store"
+  },
+  {
+    "Code": "FAB",
+    "Description": "Irradiated fuel assemblies store (fuel pool)"
+  },
+  {
+    "Code": "FAC",
+    "Description": "Irradiated breeder assemblies store (not internal store)"
+  },
+  {
+    "Code": "FAD",
+    "Description": "Additional fuel assemblies store"
+  },
+  {
+    "Code": "FAE",
+    "Description": "Reactor well equipment"
+  },
+  {
+    "Code": "FAF",
+    "Description": "Setdown area equipment"
+  },
+  {
+    "Code": "FAH",
+    "Description": "Reusable activated components store"
+  },
+  {
+    "Code": "FAK",
+    "Description": "Fuel assemblies store cooling system"
+  },
+  {
+    "Code": "FAL",
+    "Description": "Fuel assemblies store coolant cleaning system"
+  },
+  {
+    "Code": "FAM",
+    "Description": "Fuel assemblies store cleaning system"
+  },
+  {
+    "Code": "FAN",
+    "Description": "Emergency fuel assemblies store cooling system"
+  },
+  {
+    "Code": "FAR",
+    "Description": "Dedicated blanket gas system for fuel assemblies store"
+  },
+  {
+    "Code": "FAT",
+    "Description": "Heating, cooling, flushing distribution system (also evacuation)"
+  },
+  {
+    "Code": "FAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "FAW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "FAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "FAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "FBA",
+    "Description": "Fuel assemblies and other reactor core internals testing equipment"
+  },
+  {
+    "Code": "FBB",
+    "Description": "Fuel assemblies and other reactor core internals repair equipment"
+  },
+  {
+    "Code": "FBC",
+    "Description": "Fuel assemblies and other reactor core internals cleaning equipment"
+  },
+  {
+    "Code": "FBD",
+    "Description": "Size reduction equipment for fuel assemblies and other reactor core internals, excl. components classified under *J*"
+  },
+  {
+    "Code": "FBT",
+    "Description": "Heating, cooling, flushing distribution system (also evacuation)"
+  },
+  {
+    "Code": "FCA",
+    "Description": "Charge and discharge equipment"
+  },
+  {
+    "Code": "FCB",
+    "Description": "Refueling equipment at reactor"
+  },
+  {
+    "Code": "FCC",
+    "Description": "Reshuffling equipment for reactor core internals (only if separate from *FCA* and *FCB*)"
+  },
+  {
+    "Code": "FCD",
+    "Description": "Refueling equipment in store for fuel assemblies and other reactor core internals"
+  },
+  {
+    "Code": "FCF",
+    "Description": "Fuel transfer equipment"
+  },
+  {
+    "Code": "FCJ",
+    "Description": "Transport equipment"
+  },
+  {
+    "Code": "FCL",
+    "Description": "Pressurizing and cooling system for fuel assemblies transport equipment"
+  },
+  {
+    "Code": "FCT",
+    "Description": "Heating, cooling, flushing distribution system (also evacuation)"
+  },
+  {
+    "Code": "FJA",
+    "Description": "Tools and erection equipment for the reactor vessel and closure head"
+  },
+  {
+    "Code": "FJB",
+    "Description": "Tools and erection equipment for reactor vessel internals"
+  },
+  {
+    "Code": "FJC",
+    "Description": "In-service inspection equipment for the reactor vessel and closure head"
+  },
+  {
+    "Code": "FJE",
+    "Description": "Tools and erection equipment for reactor coolant system components"
+  },
+  {
+    "Code": "FJF",
+    "Description": "In-service inspection equipment for reactor coolant system components"
+  },
+  {
+    "Code": "FJM",
+    "Description": "Equipment for reactor containment"
+  },
+  {
+    "Code": "FJN",
+    "Description": "Handling equipment for sodium-wetted parts"
+  },
+  {
+    "Code": "FJQ",
+    "Description": "Hot cell equipment"
+  },
+  {
+    "Code": "FKA",
+    "Description": "Decontamination equipment"
+  },
+  {
+    "Code": "FKN",
+    "Description": "Mobile decontamination equipment"
+  },
+  {
+    "Code": "FKT",
+    "Description": "Heating, cooling, flushing distribution system (also evacuation)"
+  },
+  {
+    "Code": "GAA",
+    "Description": "Extraction, mechanical cleaning"
+  },
+  {
+    "Code": "GAC",
+    "Description": "Piping and channel system"
+  },
+  {
+    "Code": "GAD",
+    "Description": "Storage system"
+  },
+  {
+    "Code": "GAF",
+    "Description": "Pump system"
+  },
+  {
+    "Code": "GAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "GAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GBB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "GBC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "GBD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GBE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GBF",
+    "Description": "Ion exchange, reverse osmosis system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GBG",
+    "Description": "Evaporation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GBH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "GBJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "GBK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "GBL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "GBN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "GBP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "GBQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "GBR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "GBS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "GBT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "GBV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "GBX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GCB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "GCC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "GCD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GCE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GCF",
+    "Description": "Ion exchange, reverse osmosis system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GCG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GCH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "GCJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "GCK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "GCL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "GCN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "GCP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "GCQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "GCR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "GCS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "GCT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "GCX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GCY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GDB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "GDC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "GDD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GDE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GDF",
+    "Description": "Ion exchange, reverse osmosis system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GDG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GDH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "GDJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "GDK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "GDL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "GDN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "GDP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "GDQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "GDR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "GDS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "GDT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "GDX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GHB",
+    "Description": "Distribution system after treatment (carbonate hardness removal)"
+  },
+  {
+    "Code": "GHC",
+    "Description": "Demineralized water distribution system (demineralization)"
+  },
+  {
+    "Code": "GHE",
+    "Description": "Distribution system (not drinking water)"
+  },
+  {
+    "Code": "GKA",
+    "Description": "Receiving point"
+  },
+  {
+    "Code": "GKB",
+    "Description": "Drinking water distribution system"
+  },
+  {
+    "Code": "GKC",
+    "Description": "Drinking water supply"
+  },
+  {
+    "Code": "GMA",
+    "Description": "Process drainage system"
+  },
+  {
+    "Code": "GNB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "GNC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "GND",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GNE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GNF",
+    "Description": "Ion exchange system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GNG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GNH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "GNJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "GNK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "GNL",
+    "Description": "Storage system outside fluid treatment"
+  },
+  {
+    "Code": "GNN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "GNP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "GNQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "GNR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "GNS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "GNT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "GNX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GNY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GRB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "GRC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "GRD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GRE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "GRF",
+    "Description": "Ion exchange system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GRG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "GRH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "GRJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "GRK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "GRL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "GRN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "GRP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "GRQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "GRR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "GRS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "GRT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "GRX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "GRY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "GUA",
+    "Description": "Rainwater collection and drainage system incl. treatment system"
+  },
+  {
+    "Code": "HAA",
+    "Description": "LP part-flow feed heating system (flue gas heated)"
+  },
+  {
+    "Code": "HAB",
+    "Description": "HP part-flow feed heating system (flue gas heated)"
+  },
+  {
+    "Code": "HAC",
+    "Description": "Economizer system"
+  },
+  {
+    "Code": "HAD",
+    "Description": "Evaporator system"
+  },
+  {
+    "Code": "HAG",
+    "Description": "Circulation system"
+  },
+  {
+    "Code": "HAH",
+    "Description": "HP superheater system"
+  },
+  {
+    "Code": "HAJ",
+    "Description": "Reheat system"
+  },
+  {
+    "Code": "HAK",
+    "Description": "Secondary reheat system"
+  },
+  {
+    "Code": "HAM",
+    "Description": "Triflux system"
+  },
+  {
+    "Code": "HAN",
+    "Description": "Pressure system drainage and venting system"
+  },
+  {
+    "Code": "HAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HBA",
+    "Description": "Frame incl. foundation"
+  },
+  {
+    "Code": "HBB",
+    "Description": "Enclosure"
+  },
+  {
+    "Code": "HBC",
+    "Description": "Brick lining incl. insulating brickwork"
+  },
+  {
+    "Code": "HBD",
+    "Description": "Platform, stairway"
+  },
+  {
+    "Code": "HBE",
+    "Description": "Pressure vessel (supercharged boiler)"
+  },
+  {
+    "Code": "HBK",
+    "Description": "Steam generator interior"
+  },
+  {
+    "Code": "HCA",
+    "Description": "Air sootblowing system"
+  },
+  {
+    "Code": "HCB",
+    "Description": "Steam sootblowing system"
+  },
+  {
+    "Code": "HCC",
+    "Description": "Water sootblowing system"
+  },
+  {
+    "Code": "HCD",
+    "Description": "Flushing equipment"
+  },
+  {
+    "Code": "HCE",
+    "Description": "Rapping gear"
+  },
+  {
+    "Code": "HCF",
+    "Description": "Shot cleaning system"
+  },
+  {
+    "Code": "HCG",
+    "Description": "Soundwave system"
+  },
+  {
+    "Code": "HCW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HCY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HDA",
+    "Description": "Furnace ash removal, furnace slag removal, bed ash removal"
+  },
+  {
+    "Code": "HDB",
+    "Description": "Bed ash return system"
+  },
+  {
+    "Code": "HDC",
+    "Description": "Ash return system incl. temporary storage"
+  },
+  {
+    "Code": "HDD",
+    "Description": "Mechanical dust handling and return system"
+  },
+  {
+    "Code": "HDE",
+    "Description": "Electrostatic precipitator and return system"
+  },
+  {
+    "Code": "HDF",
+    "Description": "Cyclone dust removal and return system"
+  },
+  {
+    "Code": "HDT",
+    "Description": "Fluid supply system for ash, slag and dust moistening"
+  },
+  {
+    "Code": "HDU",
+    "Description": "Carrier air supply system"
+  },
+  {
+    "Code": "HDW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HFA",
+    "Description": "Bunker for pulverizing system"
+  },
+  {
+    "Code": "HFB",
+    "Description": "Feeder system"
+  },
+  {
+    "Code": "HFC",
+    "Description": "Pulverizing system (incl. classifier)"
+  },
+  {
+    "Code": "HFD",
+    "Description": "Flue gas return system"
+  },
+  {
+    "Code": "HFE",
+    "Description": "Mill air system, carrier air system"
+  },
+  {
+    "Code": "HFF",
+    "Description": "Vapor/exhaust gas system"
+  },
+  {
+    "Code": "HFG",
+    "Description": "Pulverized coal temporary storage bunker after central pulverizing system (indirect firing)"
+  },
+  {
+    "Code": "HFW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HFY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HGA",
+    "Description": "CO2 precleaning"
+  },
+  {
+    "Code": "HGB",
+    "Description": "CO2 raw gas condensation"
+  },
+  {
+    "Code": "HGC",
+    "Description": "CO2 raw gas cooling and –cleaning incl. regeneration"
+  },
+  {
+    "Code": "HGD",
+    "Description": "Main heat exchanger/cooling/liquidation"
+  },
+  {
+    "Code": "HGE",
+    "Description": "Rectification"
+  },
+  {
+    "Code": "HHA",
+    "Description": "Main burner"
+  },
+  {
+    "Code": "HHB",
+    "Description": "Retarded combustion grate"
+  },
+  {
+    "Code": "HHC",
+    "Description": "Grate combustion system"
+  },
+  {
+    "Code": "HHD",
+    "Description": "Other burner equipment (e.g. vapor burner, flue dust burner)"
+  },
+  {
+    "Code": "HHE",
+    "Description": "Pulverized coal bin, forwarding and distribution system"
+  },
+  {
+    "Code": "HHF",
+    "Description": "Oil temporary storage, pump and distribution system"
+  },
+  {
+    "Code": "HHG",
+    "Description": "Gas pressure reduction, distribution system"
+  },
+  {
+    "Code": "HHH",
+    "Description": "Temporary storage, forwarding and distribution system for other fuel, fluid 1"
+  },
+  {
+    "Code": "HHJ",
+    "Description": "Temporary storage, forwarding and distribution system for other fuel, fluid 2"
+  },
+  {
+    "Code": "HHK",
+    "Description": "Temporary storage, forwarding and distribution system for other fuel, fluid 3"
+  },
+  {
+    "Code": "HHL",
+    "Description": "Combustion air supply system"
+  },
+  {
+    "Code": "HHM",
+    "Description": "Atomizer medium supply system (steam)"
+  },
+  {
+    "Code": "HHN",
+    "Description": "Atomizer medium supply system (air)"
+  },
+  {
+    "Code": "HHP",
+    "Description": "Coolant supply system (steam)"
+  },
+  {
+    "Code": "HHQ",
+    "Description": "Coolant supply system (air)"
+  },
+  {
+    "Code": "HHR",
+    "Description": "Purging medium supply system (steam)"
+  },
+  {
+    "Code": "HHS",
+    "Description": "Purging medium supply system (air)"
+  },
+  {
+    "Code": "HHT",
+    "Description": "Heating medium supply system (steam)"
+  },
+  {
+    "Code": "HHU",
+    "Description": "Heating medium supply system (hot water)"
+  },
+  {
+    "Code": "HHX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HHY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HHZ",
+    "Description": "Electric heating system"
+  },
+  {
+    "Code": "HJA",
+    "Description": "Ignition burner"
+  },
+  {
+    "Code": "HJE",
+    "Description": "Pulverized coal bin, forwarding and distribution system"
+  },
+  {
+    "Code": "HJF",
+    "Description": "Oil temporary storage, pump and distribution system"
+  },
+  {
+    "Code": "HJG",
+    "Description": "Gas pressure reduction, distribution system"
+  },
+  {
+    "Code": "HJL",
+    "Description": "Combustion air supply system"
+  },
+  {
+    "Code": "HJM",
+    "Description": "Atomizer medium supply system (steam)"
+  },
+  {
+    "Code": "HJN",
+    "Description": "Atomizer medium supply system (air)"
+  },
+  {
+    "Code": "HJP",
+    "Description": "Cooling supply system (steam)"
+  },
+  {
+    "Code": "HJQ",
+    "Description": "Cooling supply system (air)"
+  },
+  {
+    "Code": "HJR",
+    "Description": "Purging medium supply system (steam)"
+  },
+  {
+    "Code": "HJS",
+    "Description": "Purging medium supply system (air)"
+  },
+  {
+    "Code": "HJT",
+    "Description": "Heating medium supply system (steam)"
+  },
+  {
+    "Code": "HJU",
+    "Description": "Heating medium supply system (hot water)"
+  },
+  {
+    "Code": "HJX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HJY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HKA",
+    "Description": "Flue gas channel system with *HK*"
+  },
+  {
+    "Code": "HKB",
+    "Description": "Flue gas ducting system"
+  },
+  {
+    "Code": "HKC",
+    "Description": "Fan system for flue gas"
+  },
+  {
+    "Code": "HKD",
+    "Description": "CO2 absorption from flue gas"
+  },
+  {
+    "Code": "HKE",
+    "Description": "Flue gas pre-cleaning"
+  },
+  {
+    "Code": "HKF",
+    "Description": "Solvent conditioning"
+  },
+  {
+    "Code": "HKG",
+    "Description": "Rich/lean solvent system"
+  },
+  {
+    "Code": "HKH",
+    "Description": "CO2 desorption from solvent"
+  },
+  {
+    "Code": "HKJ",
+    "Description": "Solvent make-up including storage"
+  },
+  {
+    "Code": "HKK",
+    "Description": "Solvent disposal"
+  },
+  {
+    "Code": "HLA",
+    "Description": "Ducting system"
+  },
+  {
+    "Code": "HLB",
+    "Description": "Forced draught fan system"
+  },
+  {
+    "Code": "HLC",
+    "Description": "Air preheating (not flue gas heated)"
+  },
+  {
+    "Code": "HLD",
+    "Description": "Air preheating flue gas heated"
+  },
+  {
+    "Code": "HLU",
+    "Description": "Air pressure relief system"
+  },
+  {
+    "Code": "HLY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HMA",
+    "Description": "Primary heater (primary convection section)"
+  },
+  {
+    "Code": "HMB",
+    "Description": "Radiation section"
+  },
+  {
+    "Code": "HMC",
+    "Description": "Secondary heater (second convection section)"
+  },
+  {
+    "Code": "HMD",
+    "Description": "Reheat system"
+  },
+  {
+    "Code": "HMY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HNA",
+    "Description": "Ducting system"
+  },
+  {
+    "Code": "HNC",
+    "Description": "Induced-draught fan system"
+  },
+  {
+    "Code": "HNE",
+    "Description": "Smoke stack system (chimney)"
+  },
+  {
+    "Code": "HNF",
+    "Description": "Flue gas recirculation system"
+  },
+  {
+    "Code": "HNG",
+    "Description": "Flue gas heating utilization system"
+  },
+  {
+    "Code": "HNU",
+    "Description": "Flue gas pressure relief system"
+  },
+  {
+    "Code": "HNV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "HNW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HNX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HNY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HPA",
+    "Description": "Extraction system"
+  },
+  {
+    "Code": "HPB",
+    "Description": "Distribution system"
+  },
+  {
+    "Code": "HPC",
+    "Description": "Return system"
+  },
+  {
+    "Code": "HQA",
+    "Description": "Radiation reflexion"
+  },
+  {
+    "Code": "HQB",
+    "Description": "System for reflector tracking"
+  },
+  {
+    "Code": "HQC",
+    "Description": "Heat absorption"
+  },
+  {
+    "Code": "HQD",
+    "Description": "Heat transfer medium system"
+  },
+  {
+    "Code": "HSA",
+    "Description": "Flue gas ducting system within *HS*"
+  },
+  {
+    "Code": "HSB",
+    "Description": "Flue gas-side heat exchanger, gas heater (not *HU*)"
+  },
+  {
+    "Code": "HSC",
+    "Description": "Flue gas fan system"
+  },
+  {
+    "Code": "HSD",
+    "Description": "Reactor (reduction)"
+  },
+  {
+    "Code": "HSE",
+    "Description": "Converter (oxidation)"
+  },
+  {
+    "Code": "HSF",
+    "Description": "Flue gas-side cleaning equipment for reactor"
+  },
+  {
+    "Code": "HSG",
+    "Description": "Reduction agent dilution system"
+  },
+  {
+    "Code": "HSH",
+    "Description": "(Residues) separator"
+  },
+  {
+    "Code": "HSJ",
+    "Description": "Reduction agent supply system incl. storage"
+  },
+  {
+    "Code": "HSK",
+    "Description": "Reduction agent treatment and distribution system"
+  },
+  {
+    "Code": "HSL",
+    "Description": "Water supply and disposal system"
+  },
+  {
+    "Code": "HSM",
+    "Description": "Chemicals and additives supply system"
+  },
+  {
+    "Code": "HSN",
+    "Description": "Drainage system"
+  },
+  {
+    "Code": "HSP",
+    "Description": "Flyash collecting system (incl. filtering) and removal system"
+  },
+  {
+    "Code": "HSQ",
+    "Description": "Sprinkler system incl. drainage"
+  },
+  {
+    "Code": "HSR",
+    "Description": "Oxidizing agent treatment and distribution system"
+  },
+  {
+    "Code": "HSS",
+    "Description": "(Residues) forwarding, storage, loading system"
+  },
+  {
+    "Code": "HST",
+    "Description": "Flushing fluid system incl. supply"
+  },
+  {
+    "Code": "HSU",
+    "Description": "Heating fluid system"
+  },
+  {
+    "Code": "HSW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HSX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HSY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "HTA",
+    "Description": "Flue gas ducting system within *HT*"
+  },
+  {
+    "Code": "HTB",
+    "Description": "Flue gas-side heat exchanger, gas heater (not *HU*)"
+  },
+  {
+    "Code": "HTC",
+    "Description": "Flue gas fan system"
+  },
+  {
+    "Code": "HTD",
+    "Description": "Flue gas scrubbing system"
+  },
+  {
+    "Code": "HTE",
+    "Description": "Flue gas cleaning and filtering system"
+  },
+  {
+    "Code": "HTF",
+    "Description": "Absorption cycle"
+  },
+  {
+    "Code": "HTG",
+    "Description": "Oxidation system incl. supply system"
+  },
+  {
+    "Code": "HTH",
+    "Description": "Flue gas cooling system"
+  },
+  {
+    "Code": "HTJ",
+    "Description": "Absorbent supply system incl. storage system"
+  },
+  {
+    "Code": "HTK",
+    "Description": "Absorbent preparation and distribution system"
+  },
+  {
+    "Code": "HTL",
+    "Description": "Piping system for discharge of solids"
+  },
+  {
+    "Code": "HTM",
+    "Description": "Thickening and solids dewatering system"
+  },
+  {
+    "Code": "HTN",
+    "Description": "Solids drying, compacting system"
+  },
+  {
+    "Code": "HTP",
+    "Description": "(Solids/product) forwarding, storage, loading system"
+  },
+  {
+    "Code": "HTQ",
+    "Description": "Water supply and disposal system"
+  },
+  {
+    "Code": "HTS",
+    "Description": "Chemicals and additives supply system"
+  },
+  {
+    "Code": "HTT",
+    "Description": "Drainage system"
+  },
+  {
+    "Code": "HTW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "HTX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "HTY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JAA",
+    "Description": "Reactor vessel scope: reactor pressure vessel including nozzles and parts welded directly to the vessel"
+  },
+  {
+    "Code": "JAB",
+    "Description": "Reactor vessel closure head"
+  },
+  {
+    "Code": "JAC",
+    "Description": "Reactor vessel internals"
+  },
+  {
+    "Code": "JAD",
+    "Description": "Reactor vessel liner"
+  },
+  {
+    "Code": "JAE",
+    "Description": "Liner cooling system task: to remove heat from the liner"
+  },
+  {
+    "Code": "JAF",
+    "Description": "Reactor vessel prestressing equipment"
+  },
+  {
+    "Code": "JAG",
+    "Description": "Reactor internal insulation"
+  },
+  {
+    "Code": "JAH",
+    "Description": "Reactor external insulation"
+  },
+  {
+    "Code": "JAJ",
+    "Description": "Reactor vessel cooling system (only if separate from liner cooling system)"
+  },
+  {
+    "Code": "JAT",
+    "Description": "Leak-off system and leakage detection system"
+  },
+  {
+    "Code": "JAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JAW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JBA",
+    "Description": "Reactor vessel internals"
+  },
+  {
+    "Code": "JDA",
+    "Description": "Control rod drive mechanism"
+  },
+  {
+    "Code": "JDC",
+    "Description": "Mechanical control equipment for coolant flow rate"
+  },
+  {
+    "Code": "JDE",
+    "Description": "Solid neutron absorber shutdown system"
+  },
+  {
+    "Code": "JDH",
+    "Description": "Liquid neutron absorber shutdown system"
+  },
+  {
+    "Code": "JDJ",
+    "Description": "2nd backup liquid neutron absorber shutdown system"
+  },
+  {
+    "Code": "JDK",
+    "Description": "Emergency shutdown system"
+  },
+  {
+    "Code": "JDM",
+    "Description": "Gaseous neutron absorber shutdown system"
+  },
+  {
+    "Code": "JDP",
+    "Description": "Power supply for shutdown system"
+  },
+  {
+    "Code": "JDT",
+    "Description": "Leak-off collecting system"
+  },
+  {
+    "Code": "JDV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JDW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JDX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JEA",
+    "Description": "Reactor coolant heat exchanger (in dual-cycle plants: steam generation system)"
+  },
+  {
+    "Code": "JEB",
+    "Description": "Reactor coolant circulation pump system"
+  },
+  {
+    "Code": "JEC",
+    "Description": "Reactor coolant piping system (not at direct-cycle plants)"
+  },
+  {
+    "Code": "JEF",
+    "Description": "Reactor coolant pressurizing system"
+  },
+  {
+    "Code": "JEG",
+    "Description": "Reactor coolant pressure relief system (at direct-cycle plants *LBK*)"
+  },
+  {
+    "Code": "JET",
+    "Description": "Reactor coolant leak-off system"
+  },
+  {
+    "Code": "JEV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JEW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JEX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JEY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JFA",
+    "Description": "Moderator heat exchanger"
+  },
+  {
+    "Code": "JFB",
+    "Description": "Moderator circulation system"
+  },
+  {
+    "Code": "JFC",
+    "Description": "Moderator piping system"
+  },
+  {
+    "Code": "JFD",
+    "Description": "Moderator tank"
+  },
+  {
+    "Code": "JFF",
+    "Description": "Moderator pressurizing system"
+  },
+  {
+    "Code": "JFG",
+    "Description": "Moderator pressure relief system"
+  },
+  {
+    "Code": "JFT",
+    "Description": "Moderator leak-off system"
+  },
+  {
+    "Code": "JFV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JFW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JFX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JFY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JGA",
+    "Description": "Secondary coolant heat exchanger (steam generation system)"
+  },
+  {
+    "Code": "JGB",
+    "Description": "Secondary coolant circulation system"
+  },
+  {
+    "Code": "JGC",
+    "Description": "Secondary coolant piping system"
+  },
+  {
+    "Code": "JGF",
+    "Description": "Secondary coolant pressurizing system"
+  },
+  {
+    "Code": "JGG",
+    "Description": "Secondary coolant pressure relief system"
+  },
+  {
+    "Code": "JGT",
+    "Description": "Secondary coolant leak-off system"
+  },
+  {
+    "Code": "JGV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JGW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JGX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JGY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JKA",
+    "Description": "Reactor core"
+  },
+  {
+    "Code": "JKQ",
+    "Description": "Aeroball system"
+  },
+  {
+    "Code": "JKS",
+    "Description": "In-core instrumentation system"
+  },
+  {
+    "Code": "JKT",
+    "Description": "Ex-core instrumentation system"
+  },
+  {
+    "Code": "JKU",
+    "Description": "Failed fuel assemblies detection system"
+  },
+  {
+    "Code": "JMA",
+    "Description": "Containment"
+  },
+  {
+    "Code": "JMC",
+    "Description": "Annulus leak-off system"
+  },
+  {
+    "Code": "JME",
+    "Description": "Equipment airlock"
+  },
+  {
+    "Code": "JMF",
+    "Description": "Personnel airlock"
+  },
+  {
+    "Code": "JMG",
+    "Description": "Emergency airlock"
+  },
+  {
+    "Code": "JMH",
+    "Description": "Construction opening"
+  },
+  {
+    "Code": "JMJ",
+    "Description": "Structural components inside containment"
+  },
+  {
+    "Code": "JMK",
+    "Description": "Piping penetration"
+  },
+  {
+    "Code": "JML",
+    "Description": "Cable penetration"
+  },
+  {
+    "Code": "JMM",
+    "Description": "Leakage monitoring and leak-off system"
+  },
+  {
+    "Code": "JMN",
+    "Description": "Containment spray system"
+  },
+  {
+    "Code": "JMP",
+    "Description": "Pressure suppression system"
+  },
+  {
+    "Code": "JMT",
+    "Description": "Hydrogen reduction system"
+  },
+  {
+    "Code": "JMU",
+    "Description": "Hydrogen monitoring system"
+  },
+  {
+    "Code": "JMV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JMW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JMX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JMY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JMZ",
+    "Description": "Hydrogen mixing system"
+  },
+  {
+    "Code": "JNA",
+    "Description": "Residual heat removal system for reactor coolant system"
+  },
+  {
+    "Code": "JNB",
+    "Description": "Emergency residual heat removal system"
+  },
+  {
+    "Code": "JND",
+    "Description": "HP safety injection system"
+  },
+  {
+    "Code": "JNG",
+    "Description": "LP safety injection system, core flooding system"
+  },
+  {
+    "Code": "JNK",
+    "Description": "Borated water storage system"
+  },
+  {
+    "Code": "JNP",
+    "Description": "Function testing system"
+  },
+  {
+    "Code": "JNV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JNW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JNX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JNY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "JRA",
+    "Description": "Reactor protection system"
+  },
+  {
+    "Code": "JSA",
+    "Description": "Reactor control system"
+  },
+  {
+    "Code": "JTA",
+    "Description": "Reactor operational, protective and status limitation system"
+  },
+  {
+    "Code": "JVA",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "JWA",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "JXA",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "JYF",
+    "Description": "Loose parts monitoring system"
+  },
+  {
+    "Code": "JYG",
+    "Description": "Vibration monitoring system"
+  },
+  {
+    "Code": "JYL",
+    "Description": "Fatigue monitoring system for components as separate system"
+  },
+  {
+    "Code": "KAA",
+    "Description": "Component cooling for safety-related cooling loads"
+  },
+  {
+    "Code": "KAB",
+    "Description": "Component cooling system for process-related cooling loads"
+  },
+  {
+    "Code": "KAC",
+    "Description": "Component cooling system for other cooling loads"
+  },
+  {
+    "Code": "KAD",
+    "Description": "Emergency component cooling system"
+  },
+  {
+    "Code": "KAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KAW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KBA",
+    "Description": "Level and volume control system"
+  },
+  {
+    "Code": "KBB",
+    "Description": "Coolant supply system"
+  },
+  {
+    "Code": "KBC",
+    "Description": "Boric acid and demineralized water control system"
+  },
+  {
+    "Code": "KBD",
+    "Description": "Chemical control system Task: to condition coolant"
+  },
+  {
+    "Code": "KBE",
+    "Description": "Coolant purification system"
+  },
+  {
+    "Code": "KBF",
+    "Description": "Coolant treatment system (also evaporation)"
+  },
+  {
+    "Code": "KBG",
+    "Description": "Coolant degasification, drying system"
+  },
+  {
+    "Code": "KBH",
+    "Description": "Coolant purification regenerating system"
+  },
+  {
+    "Code": "KBJ",
+    "Description": "Tritium extraction system"
+  },
+  {
+    "Code": "KBK",
+    "Description": "Secondary coolant purification system (three-cycle plants)"
+  },
+  {
+    "Code": "KBL",
+    "Description": "D2O/H2O purification system"
+  },
+  {
+    "Code": "KBM",
+    "Description": "D2O upgrading and distribution system"
+  },
+  {
+    "Code": "KBV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KBW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KBX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KHA",
+    "Description": "Heat tracing system for reactor coolant system"
+  },
+  {
+    "Code": "KHB",
+    "Description": "Heat tracing system for secondary coolant system"
+  },
+  {
+    "Code": "KHC",
+    "Description": "Heat tracing system for other systems"
+  },
+  {
+    "Code": "KHW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KHX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KHY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KJA",
+    "Description": "Low temperature system for coolant treatment"
+  },
+  {
+    "Code": "KJB",
+    "Description": "Low temperature system for gaseous radioactive waste processing"
+  },
+  {
+    "Code": "KJL",
+    "Description": "Chilled water system for coolant treatment"
+  },
+  {
+    "Code": "KJM",
+    "Description": "Chilled water system for gaseous radioactive waste processing"
+  },
+  {
+    "Code": "KJN",
+    "Description": "Chilled water system for back-up coolers"
+  },
+  {
+    "Code": "KJW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KJX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KJY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KLA",
+    "Description": "Heating, ventilation, air-conditioning (HVAC) systems in controlled areas and exclusion areas"
+  },
+  {
+    "Code": "KLV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KLW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KLX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KLY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KPA",
+    "Description": "Solid radioactive waste processing system"
+  },
+  {
+    "Code": "KPE",
+    "Description": "Solid radioactive waste storage system"
+  },
+  {
+    "Code": "KPF",
+    "Description": "Liquid radioactive waste processing system"
+  },
+  {
+    "Code": "KPK",
+    "Description": "Liquid radioactive waste storage system"
+  },
+  {
+    "Code": "KPL",
+    "Description": "Gaseous radioactive waste processing system"
+  },
+  {
+    "Code": "KPQ",
+    "Description": "Gaseous radioactive waste storage system"
+  },
+  {
+    "Code": "KPV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KPW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KPX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KPY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KRA",
+    "Description": "Blanket gas supply"
+  },
+  {
+    "Code": "KRJ",
+    "Description": "Inert gas supply"
+  },
+  {
+    "Code": "KRP",
+    "Description": "Gas supply"
+  },
+  {
+    "Code": "KRV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KRW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "KRX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KRY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KTA",
+    "Description": "Collecting systems for disposal (e.g. system or building-specific)"
+  },
+  {
+    "Code": "KTX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KTY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KUA",
+    "Description": "Sampling systems (liquid)"
+  },
+  {
+    "Code": "KUG",
+    "Description": "Sampling systems (gaseous)"
+  },
+  {
+    "Code": "KUL",
+    "Description": "Fault sampling systems"
+  },
+  {
+    "Code": "KUX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KUY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KVA",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "KWA",
+    "Description": "Nuclear sealing and flushing fluid supply systems"
+  },
+  {
+    "Code": "KWX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KWY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "KXA",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "KYA",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LAA",
+    "Description": "Storage, deaeration"
+  },
+  {
+    "Code": "LAB",
+    "Description": "Feedwater piping system"
+  },
+  {
+    "Code": "LAC",
+    "Description": "Feedwater pump system"
+  },
+  {
+    "Code": "LAD",
+    "Description": "HP feedwater heating system"
+  },
+  {
+    "Code": "LAE",
+    "Description": "HP desuperheating spray system"
+  },
+  {
+    "Code": "LAF",
+    "Description": "IP desuperheating spray system"
+  },
+  {
+    "Code": "LAH",
+    "Description": "Start-up and shutdown piping system"
+  },
+  {
+    "Code": "LAJ",
+    "Description": "Start-up and shutdown pump system"
+  },
+  {
+    "Code": "LAW",
+    "Description": "Feedwater sealing water system"
+  },
+  {
+    "Code": "LAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LBA",
+    "Description": "Main steam piping system"
+  },
+  {
+    "Code": "LBB",
+    "Description": "Hot reheat piping system"
+  },
+  {
+    "Code": "LBC",
+    "Description": "Cold reheat piping system"
+  },
+  {
+    "Code": "LBD",
+    "Description": "Extraction piping system"
+  },
+  {
+    "Code": "LBE",
+    "Description": "Back-pressure piping system"
+  },
+  {
+    "Code": "LBF",
+    "Description": "Overpressure suppression and safety device incl. injection and hydraulic station for safety function"
+  },
+  {
+    "Code": "LBG",
+    "Description": "Auxiliary steam piping system"
+  },
+  {
+    "Code": "LBH",
+    "Description": "Start-up steam system, shutdown steam system"
+  },
+  {
+    "Code": "LBJ",
+    "Description": "Moisture separator/reheater (MSR)"
+  },
+  {
+    "Code": "LBQ",
+    "Description": "Extraction steam piping system for HP feed-water heating"
+  },
+  {
+    "Code": "LBR",
+    "Description": "Piping system for branch or auxiliary turbine"
+  },
+  {
+    "Code": "LBS",
+    "Description": "Extraction steam piping system for LP feed-water heating (main condensate)"
+  },
+  {
+    "Code": "LBT",
+    "Description": "Emergency condensing system"
+  },
+  {
+    "Code": "LBU",
+    "Description": "Common dump line"
+  },
+  {
+    "Code": "LBW",
+    "Description": "Sealing steam system"
+  },
+  {
+    "Code": "LBX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LCA",
+    "Description": "Main condensate piping system (excl. main condensate pump system, feedwater heating system, condensate polishing plant)"
+  },
+  {
+    "Code": "LCB",
+    "Description": "Main condensate pump system"
+  },
+  {
+    "Code": "LCC",
+    "Description": "Main condensate heating system"
+  },
+  {
+    "Code": "LCE",
+    "Description": "Condensate desuperheating spray system"
+  },
+  {
+    "Code": "LCF",
+    "Description": "Branch turbine condensate piping system"
+  },
+  {
+    "Code": "LCG",
+    "Description": "Branch turbine condensate pump system"
+  },
+  {
+    "Code": "LCH",
+    "Description": "HP heater drains system"
+  },
+  {
+    "Code": "LCJ",
+    "Description": "LP heater drains system"
+  },
+  {
+    "Code": "LCL",
+    "Description": "Steam generator drains system"
+  },
+  {
+    "Code": "LCM",
+    "Description": "Clean drains system (collecting and return system)"
+  },
+  {
+    "Code": "LCN",
+    "Description": "Auxiliary steam condensate system (collecting and return system)"
+  },
+  {
+    "Code": "LCP",
+    "Description": "Standby condensate system, incl. storage and pump system"
+  },
+  {
+    "Code": "LCQ",
+    "Description": "Steam generator blowdown system"
+  },
+  {
+    "Code": "LCR",
+    "Description": "Standby condensate distribution system"
+  },
+  {
+    "Code": "LCS",
+    "Description": "Reheater drains system (moisture separator/reheater)"
+  },
+  {
+    "Code": "LCT",
+    "Description": "Moisture separator drains system (moisture separator/reheater)"
+  },
+  {
+    "Code": "LCW",
+    "Description": "Sealing and cooling drains system"
+  },
+  {
+    "Code": "LCX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LCY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LDA",
+    "Description": "Fluid treatment extraction system"
+  },
+  {
+    "Code": "LDB",
+    "Description": "Filtering, mechanical cleaning"
+  },
+  {
+    "Code": "LDC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "LDD",
+    "Description": "Electromagnetic polishing system"
+  },
+  {
+    "Code": "LDE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "LDF",
+    "Description": "Ion exchange, reverse osmosis system (e.g. demineralization)"
+  },
+  {
+    "Code": "LDG",
+    "Description": "Evaporation system (e.g. demineralization)"
+  },
+  {
+    "Code": "LDH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "LDJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "LDK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "LDL",
+    "Description": "Storage system outside fluid treatment system LDN Chemicals supply system"
+  },
+  {
+    "Code": "LDP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "LDQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "LDR",
+    "Description": "Flushing water and residues removal system incl. neutralization"
+  },
+  {
+    "Code": "LDS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "LDT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "LDX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LFC",
+    "Description": "Common drain and vent system"
+  },
+  {
+    "Code": "LFG",
+    "Description": "Secondary-side steam generator tubesheet lancing system"
+  },
+  {
+    "Code": "LFJ",
+    "Description": "Steam generator lay-up system"
+  },
+  {
+    "Code": "LFN",
+    "Description": "Proportioning system for feedwater, condensate system, incl. proportioning in boiler and turbine area"
+  },
+  {
+    "Code": "LKA",
+    "Description": "Storage system"
+  },
+  {
+    "Code": "LKB",
+    "Description": "Piping system"
+  },
+  {
+    "Code": "LKC",
+    "Description": "Compressor system"
+  },
+  {
+    "Code": "LKD",
+    "Description": "Preheating system"
+  },
+  {
+    "Code": "LKE",
+    "Description": "Precooling system"
+  },
+  {
+    "Code": "LKF",
+    "Description": "Intercooling system"
+  },
+  {
+    "Code": "LKG",
+    "Description": "Pressurizing system"
+  },
+  {
+    "Code": "LKW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "LKX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LKY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LNA",
+    "Description": "Head and tail race system, storage system"
+  },
+  {
+    "Code": "LNB",
+    "Description": "Trash rack, trash/fish barrier"
+  },
+  {
+    "Code": "LNC",
+    "Description": "Dam, weir system"
+  },
+  {
+    "Code": "LND",
+    "Description": "Spillway"
+  },
+  {
+    "Code": "LNE",
+    "Description": "Drainage system"
+  },
+  {
+    "Code": "LNF",
+    "Description": "Pump system"
+  },
+  {
+    "Code": "LNG",
+    "Description": "Removal system for external purpose"
+  },
+  {
+    "Code": "LNV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "LNW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "LNX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LNY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LPA",
+    "Description": "Rake and rake cleaning system"
+  },
+  {
+    "Code": "LPB",
+    "Description": "Isolating equipment"
+  },
+  {
+    "Code": "LPC",
+    "Description": "Piping and penstock system"
+  },
+  {
+    "Code": "LPE",
+    "Description": "Surge tank"
+  },
+  {
+    "Code": "LPG",
+    "Description": "Removal system for external purpose"
+  },
+  {
+    "Code": "LPV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "LPW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "LPX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LPY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "LQA",
+    "Description": "Underwater piping and culvert system"
+  },
+  {
+    "Code": "LQB",
+    "Description": "Surge tank"
+  },
+  {
+    "Code": "LQC",
+    "Description": "Isolating equipment"
+  },
+  {
+    "Code": "LQE",
+    "Description": "Rake and rake cleaning system for pumped-storage operation"
+  },
+  {
+    "Code": "LQG",
+    "Description": "Removal system for external purpose"
+  },
+  {
+    "Code": "LQV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "LQW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "LQX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "LQY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "MAA",
+    "Description": "HP turbine"
+  },
+  {
+    "Code": "MAB",
+    "Description": "IP turbine"
+  },
+  {
+    "Code": "MAC",
+    "Description": "LP turbine"
+  },
+  {
+    "Code": "MAD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MAG",
+    "Description": "Condensing system"
+  },
+  {
+    "Code": "MAH",
+    "Description": "Motive water system"
+  },
+  {
+    "Code": "MAJ",
+    "Description": "Air removal system"
+  },
+  {
+    "Code": "MAK",
+    "Description": "Transmission gear between prime mover and driven machine, incl. turning gear"
+  },
+  {
+    "Code": "MAL",
+    "Description": "Drain and vent system"
+  },
+  {
+    "Code": "MAM",
+    "Description": "Leak-off steam system"
+  },
+  {
+    "Code": "MAN",
+    "Description": "Turbine bypass station, incl. desuperheating spray system"
+  },
+  {
+    "Code": "MAP",
+    "Description": "LP turbine bypass"
+  },
+  {
+    "Code": "MAQ",
+    "Description": "Vent system"
+  },
+  {
+    "Code": "MAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MAW",
+    "Description": "Sealing, heating and cooling steam system"
+  },
+  {
+    "Code": "MAX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MAY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MBA",
+    "Description": "Turbine, compressor rotor with common casing"
+  },
+  {
+    "Code": "MBB",
+    "Description": "Turbine casing and rotor"
+  },
+  {
+    "Code": "MBC",
+    "Description": "Compressor casing and rotor"
+  },
+  {
+    "Code": "MBD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MBE",
+    "Description": "Coolant system for gas turbine plant"
+  },
+  {
+    "Code": "MBH",
+    "Description": "Cooling and sealing gas system"
+  },
+  {
+    "Code": "MBJ",
+    "Description": "Start-up unit"
+  },
+  {
+    "Code": "MBK",
+    "Description": "Transmission gear between prime mover and driven machine, incl. turning gear, barring gear"
+  },
+  {
+    "Code": "MBL",
+    "Description": "Intake air, cold gas system incl. intake air preheating"
+  },
+  {
+    "Code": "MBM",
+    "Description": "Combustion chamber (gas heating, combustion)"
+  },
+  {
+    "Code": "MBN",
+    "Description": "Fuel supply system (liquid)"
+  },
+  {
+    "Code": "MBP",
+    "Description": "Fuel supply system (gaseous)"
+  },
+  {
+    "Code": "MBQ",
+    "Description": "Ignition fuel supply system"
+  },
+  {
+    "Code": "MBR",
+    "Description": "Exhaust gas system (open cycle)"
+  },
+  {
+    "Code": "MBS",
+    "Description": "Storage system"
+  },
+  {
+    "Code": "MBT",
+    "Description": "Motive gas generator unit, incl. combustion chamber"
+  },
+  {
+    "Code": "MBU",
+    "Description": "Additive system"
+  },
+  {
+    "Code": "MBV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MBW",
+    "Description": "Sealing oil supply system"
+  },
+  {
+    "Code": "MBX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MBY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MBZ",
+    "Description": "Lubricant and control fluid treatment system"
+  },
+  {
+    "Code": "MDA",
+    "Description": "Rotor (incl. hub)"
+  },
+  {
+    "Code": "MDD",
+    "Description": "Rotor bearings"
+  },
+  {
+    "Code": "MDK",
+    "Description": "Transmission gear (gearbox, propeller shaft, brake)"
+  },
+  {
+    "Code": "MDL",
+    "Description": "Yaw control system"
+  },
+  {
+    "Code": "MDV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MDX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MDY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MEA",
+    "Description": "Turbine (casing, shaft, runner, draft tube etc.)"
+  },
+  {
+    "Code": "MEB",
+    "Description": "Isolating valve"
+  },
+  {
+    "Code": "MED",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MEG",
+    "Description": "Stabilizing air system"
+  },
+  {
+    "Code": "MEK",
+    "Description": "Transmission gear between prime mover and driven machine"
+  },
+  {
+    "Code": "MEL",
+    "Description": "Water depression air supply system"
+  },
+  {
+    "Code": "MES",
+    "Description": "Shaft gland cooling water system"
+  },
+  {
+    "Code": "MEV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MEW",
+    "Description": "Sealing water supply system"
+  },
+  {
+    "Code": "MEX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MEY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MFA",
+    "Description": "Pumping turbine, pump and turbine as integral unit"
+  },
+  {
+    "Code": "MFB",
+    "Description": "Isolating valve"
+  },
+  {
+    "Code": "MFD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MFG",
+    "Description": "Stabilizing air system"
+  },
+  {
+    "Code": "MFK",
+    "Description": "Transmission gear between motor generator set and pumping turbine"
+  },
+  {
+    "Code": "MFL",
+    "Description": "Water depression air supply system"
+  },
+  {
+    "Code": "MFM",
+    "Description": "Start-up unit"
+  },
+  {
+    "Code": "MFS",
+    "Description": "Shaft gland cooling water system"
+  },
+  {
+    "Code": "MFV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MFW",
+    "Description": "Sealing water supply system"
+  },
+  {
+    "Code": "MFX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MFY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MGA",
+    "Description": "Storage pump (casing, shaft, runner etc.)"
+  },
+  {
+    "Code": "MGB",
+    "Description": "Isolating valve"
+  },
+  {
+    "Code": "MGD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MGG",
+    "Description": "Stabilizing air system"
+  },
+  {
+    "Code": "MGK",
+    "Description": "Transmission gear between motor generator set and storage pump"
+  },
+  {
+    "Code": "MGL",
+    "Description": "Water depression air supply system"
+  },
+  {
+    "Code": "MGM",
+    "Description": "Start-up unit"
+  },
+  {
+    "Code": "MGS",
+    "Description": "Shaft gland cooling water system"
+  },
+  {
+    "Code": "MGV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MGW",
+    "Description": "Sealing water supply system"
+  },
+  {
+    "Code": "MGX",
+    "Description": "Non-electric control and protection equipment, incl. fluid supply system"
+  },
+  {
+    "Code": "MGY",
+    "Description": "Electrical control and protection equipment"
+  },
+  {
+    "Code": "MHA",
+    "Description": "High pressure steam motor"
+  },
+  {
+    "Code": "MHB",
+    "Description": "Intermediate pressure steam motor"
+  },
+  {
+    "Code": "MHC",
+    "Description": "Low pressure steam motor"
+  },
+  {
+    "Code": "MJA",
+    "Description": "Engine"
+  },
+  {
+    "Code": "MJB",
+    "Description": "Turbocharger, blower"
+  },
+  {
+    "Code": "MJG",
+    "Description": "Liquid cooling system"
+  },
+  {
+    "Code": "MJH",
+    "Description": "Air intercooling system"
+  },
+  {
+    "Code": "MJK",
+    "Description": "Transmission gear between prime mover and driven machine"
+  },
+  {
+    "Code": "MJN",
+    "Description": "Fuel system"
+  },
+  {
+    "Code": "MJP",
+    "Description": "Start-up unit (incl. flywheel)"
+  },
+  {
+    "Code": "MJQ",
+    "Description": "Air intake system"
+  },
+  {
+    "Code": "MJR",
+    "Description": "Exhaust gas system"
+  },
+  {
+    "Code": "MJV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MJW",
+    "Description": "Sealing fluid supply system"
+  },
+  {
+    "Code": "MKA",
+    "Description": "Generator, complete, incl. stator, rotor and all integral cooling equipment"
+  },
+  {
+    "Code": "MKB",
+    "Description": "Generator exciter set, incl. set with electrical braking system"
+  },
+  {
+    "Code": "MKD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MKF",
+    "Description": "Stator/rotor liquid cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MKG",
+    "Description": "Stator/rotor hydrogen (H2) cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MKH",
+    "Description": "Stator/rotor nitrogen (N2)/carbon dioxide (CO2) cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MKJ",
+    "Description": "Stator/rotor air cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MKQ",
+    "Description": "Exhaust gas system (if separate from *MKG* and *MKH*)"
+  },
+  {
+    "Code": "MKU",
+    "Description": "Stator/rotor cooling oil cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MKV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MKW",
+    "Description": "Sealing fluid supply system (Sealing oil system, incl. supply and treatment)"
+  },
+  {
+    "Code": "MKY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "MLA",
+    "Description": "Motor frame, motor generator frame, incl. stator, rotor and all integral cooling equipment"
+  },
+  {
+    "Code": "MLC",
+    "Description": "Exciter set"
+  },
+  {
+    "Code": "MLD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "MLF",
+    "Description": "Stator/rotor liquid cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MLG",
+    "Description": "Stator/rotor gas cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MLH",
+    "Description": "Stator/rotor nitrogen cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MLQ",
+    "Description": "Exhaust gas system"
+  },
+  {
+    "Code": "MLU",
+    "Description": "Stator/rotor cooling oil cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "MLV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "MLW",
+    "Description": "Sealing oil system, incl. supply and treatment"
+  },
+  {
+    "Code": "MLX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "MLY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "MPA",
+    "Description": "Foundation"
+  },
+  {
+    "Code": "MPB",
+    "Description": "Sheathing"
+  },
+  {
+    "Code": "MPG",
+    "Description": "Frame, support structure"
+  },
+  {
+    "Code": "MPR",
+    "Description": "Forced cooling system"
+  },
+  {
+    "Code": "MPS",
+    "Description": "Drying and lay-up system"
+  },
+  {
+    "Code": "NAA",
+    "Description": "Piping system (steam)"
+  },
+  {
+    "Code": "NAB",
+    "Description": "Piping system (condensate)"
+  },
+  {
+    "Code": "NAD",
+    "Description": "Process heat transmission system"
+  },
+  {
+    "Code": "NAE",
+    "Description": "Piping system (steam)"
+  },
+  {
+    "Code": "NAK",
+    "Description": "Piping system (condensate)"
+  },
+  {
+    "Code": "NAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "NAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "NDA",
+    "Description": "Piping system (forward)"
+  },
+  {
+    "Code": "NDB",
+    "Description": "Piping system (return)"
+  },
+  {
+    "Code": "NDC",
+    "Description": "Process hot water pump system"
+  },
+  {
+    "Code": "NDD",
+    "Description": "Process heat transfer"
+  },
+  {
+    "Code": "NDE",
+    "Description": "Hot water storage system"
+  },
+  {
+    "Code": "NDF",
+    "Description": "Distribution system"
+  },
+  {
+    "Code": "NDK",
+    "Description": "Pressurizing system"
+  },
+  {
+    "Code": "NDX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "NDY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "NEA",
+    "Description": "Piping system (forward)"
+  },
+  {
+    "Code": "NEB",
+    "Description": "Piping system (return)"
+  },
+  {
+    "Code": "NEC",
+    "Description": "Process chilled water pump system"
+  },
+  {
+    "Code": "NEE",
+    "Description": "Process chilled water storage system"
+  },
+  {
+    "Code": "NEF",
+    "Description": "Distribution system"
+  },
+  {
+    "Code": "NEK",
+    "Description": "Pressurizing system"
+  },
+  {
+    "Code": "NEX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "NEY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "PAA",
+    "Description": "Extraction, mechanical cleaning for direct cooling"
+  },
+  {
+    "Code": "PAB",
+    "Description": "Circulating water piping and culvert system"
+  },
+  {
+    "Code": "PAC",
+    "Description": "Circulating water pump system"
+  },
+  {
+    "Code": "PAD",
+    "Description": "Recirculation cooling system, outfall cooling system"
+  },
+  {
+    "Code": "PAE",
+    "Description": "Cooling tower pump system"
+  },
+  {
+    "Code": "PAH",
+    "Description": "Condenser cleaning system, incl. all appurtenances"
+  },
+  {
+    "Code": "PAR",
+    "Description": "Make-up water piping system"
+  },
+  {
+    "Code": "PAS",
+    "Description": "Make-up water pump system"
+  },
+  {
+    "Code": "PAV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "PAX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "PAY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "PBA",
+    "Description": "Discharge from fluid treatment system"
+  },
+  {
+    "Code": "PBB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "PBC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "PBD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "PBE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "PBF",
+    "Description": "Ion exchange system (e.g. for demineralization)"
+  },
+  {
+    "Code": "PBG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "PBH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "PBJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "PBK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "PBL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "PBN",
+    "Description": "Chemicals supply system incl. proportioning system"
+  },
+  {
+    "Code": "PBP",
+    "Description": "Service water for circulating water treatment"
+  },
+  {
+    "Code": "PBQ",
+    "Description": "Injection system for circulating water treatment system"
+  },
+  {
+    "Code": "PBR",
+    "Description": "Flushing water and residues removal system"
+  },
+  {
+    "Code": "PBS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "PBT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "PBX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "PBY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "PCA",
+    "Description": "Extraction, mechanical cleaning for direct cooling"
+  },
+  {
+    "Code": "PCB",
+    "Description": "Service water piping and culvert system"
+  },
+  {
+    "Code": "PCC",
+    "Description": "Pump system"
+  },
+  {
+    "Code": "PCD",
+    "Description": "Recirculation cooling system, outfall cooling system"
+  },
+  {
+    "Code": "PCH",
+    "Description": "Heat exchanger cleaning system"
+  },
+  {
+    "Code": "PCM",
+    "Description": "Service water system for generator, motor generator cooling"
+  },
+  {
+    "Code": "PCX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "PCY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "PDA",
+    "Description": "Discharge from fluid treatment system"
+  },
+  {
+    "Code": "PDB",
+    "Description": "Filtering, mechanical cleaning system"
+  },
+  {
+    "Code": "PDC",
+    "Description": "Aeration, gas injection system"
+  },
+  {
+    "Code": "PDD",
+    "Description": "Precipitation system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "PDE",
+    "Description": "Acid proportioning system (e.g. for carbonate hardness removal)"
+  },
+  {
+    "Code": "PDF",
+    "Description": "Ion exchange system (e.g. for demineralization)"
+  },
+  {
+    "Code": "PDG",
+    "Description": "Evaporation system (e.g. for demineralization)"
+  },
+  {
+    "Code": "PDH",
+    "Description": "Deaeration"
+  },
+  {
+    "Code": "PDJ",
+    "Description": "Preheating, cooling system"
+  },
+  {
+    "Code": "PDK",
+    "Description": "Piping system, temporary storage system, pump system for main fluid"
+  },
+  {
+    "Code": "PDL",
+    "Description": "Storage system outside fluid treatment system"
+  },
+  {
+    "Code": "PDN",
+    "Description": "Chemicals supply system"
+  },
+  {
+    "Code": "PDP",
+    "Description": "Regeneration, flushing equipment"
+  },
+  {
+    "Code": "PDQ",
+    "Description": "Injection system for main fluid"
+  },
+  {
+    "Code": "PDR",
+    "Description": "Flushing water and residues removal system, incl. neutralization"
+  },
+  {
+    "Code": "PDS",
+    "Description": "Sludge thickening system"
+  },
+  {
+    "Code": "PDT",
+    "Description": "Heating, cooling and flushing fluid distribution system"
+  },
+  {
+    "Code": "PUK",
+    "Description": "Neutralization"
+  },
+  {
+    "Code": "PUN",
+    "Description": "Proportioning system"
+  },
+  {
+    "Code": "QEA",
+    "Description": "Central compressed air and carrier air generation system"
+  },
+  {
+    "Code": "QEB",
+    "Description": "Central compressed air and carrier air generation system"
+  },
+  {
+    "Code": "QFA",
+    "Description": "Central control air generation system"
+  },
+  {
+    "Code": "QFB",
+    "Description": "Central control air distribution system"
+  },
+  {
+    "Code": "QHA",
+    "Description": "Pressure system"
+  },
+  {
+    "Code": "QHB",
+    "Description": "Support structure, enclosure, steam generator interior"
+  },
+  {
+    "Code": "QHC",
+    "Description": "Fireside heat transfer surface cleaning equipment"
+  },
+  {
+    "Code": "QHD",
+    "Description": "Ash and slag removal"
+  },
+  {
+    "Code": "QHE",
+    "Description": "Blowdown system, flash drain system"
+  },
+  {
+    "Code": "QHF",
+    "Description": "Bunker, feeder and pulverizing system"
+  },
+  {
+    "Code": "QHG",
+    "Description": "Boiler water circulation system (also for electrode steam boiler)"
+  },
+  {
+    "Code": "QHH",
+    "Description": "Main firing system (electric powered as well)"
+  },
+  {
+    "Code": "QHJ",
+    "Description": "Ignition firing equipment"
+  },
+  {
+    "Code": "QHL",
+    "Description": "Combustion air system (primary air, secondary air)"
+  },
+  {
+    "Code": "QHM",
+    "Description": "Gas heating system (for closed cycle)"
+  },
+  {
+    "Code": "QHN",
+    "Description": "Flue gas exhaust (without flue gas treatment)"
+  },
+  {
+    "Code": "QHP",
+    "Description": "Mechanical dust handling system"
+  },
+  {
+    "Code": "QHQ",
+    "Description": "Electrostatic precipitator"
+  },
+  {
+    "Code": "QHR",
+    "Description": "Chemical flue gas treatment system, incl. residues removal, adsorptive process"
+  },
+  {
+    "Code": "QHS",
+    "Description": "Chemical flue gas treatment system, incl. residues removal, catalytic process"
+  },
+  {
+    "Code": "QHT",
+    "Description": "Chemical flue gas treatment system, incl. residues removal, absorptive process"
+  },
+  {
+    "Code": "QHU",
+    "Description": "Flue gas reheating system"
+  },
+  {
+    "Code": "QHX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "QHY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "QJY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "QLA",
+    "Description": "Feedwater system"
+  },
+  {
+    "Code": "QLB",
+    "Description": "Steam system"
+  },
+  {
+    "Code": "QLC",
+    "Description": "Condensate system"
+  },
+  {
+    "Code": "QLD",
+    "Description": "Condensate polishing plant"
+  },
+  {
+    "Code": "QLF",
+    "Description": "Common equipment for auxiliary steam generation and distribution systems"
+  },
+  {
+    "Code": "QLY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "QUY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "SCA",
+    "Description": "Compressed air generation system"
+  },
+  {
+    "Code": "SCB",
+    "Description": "Compressed air distribution system"
+  },
+  {
+    "Code": "SGA",
+    "Description": "Fire water system"
+  },
+  {
+    "Code": "SGE",
+    "Description": "Sprinkler system"
+  },
+  {
+    "Code": "SGF",
+    "Description": "Foam fire-fighting system"
+  },
+  {
+    "Code": "SGG",
+    "Description": "Tank roof, tank shell cooling system"
+  },
+  {
+    "Code": "SGH",
+    "Description": "Mechanical self-extinguishing system for liquids"
+  },
+  {
+    "Code": "SGJ",
+    "Description": "CO2 fire-fighting system"
+  },
+  {
+    "Code": "SGL",
+    "Description": "Powder fire-fighting system"
+  },
+  {
+    "Code": "SGM",
+    "Description": "Fire extinguishing system with other extinguishing agents"
+  },
+  {
+    "Code": "SGX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "SGY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "STA",
+    "Description": "Workshop equipment"
+  },
+  {
+    "Code": "STC",
+    "Description": "Maintenance area"
+  },
+  {
+    "Code": "STE",
+    "Description": "Store and filling station equipment"
+  },
+  {
+    "Code": "STG",
+    "Description": "Laboratory equipment"
+  },
+  {
+    "Code": "STP",
+    "Description": "Staff amenity"
+  },
+  {
+    "Code": "UAA",
+    "Description": "Switchyard structure"
+  },
+  {
+    "Code": "UAB",
+    "Description": "Grid system switchgear building"
+  },
+  {
+    "Code": "UAC",
+    "Description": "Grid system control building"
+  },
+  {
+    "Code": "UAE",
+    "Description": "Structure for pneumatic control system"
+  },
+  {
+    "Code": "UAG",
+    "Description": "Structure for transformer"
+  },
+  {
+    "Code": "UAH",
+    "Description": "Structure for supports and equipment"
+  },
+  {
+    "Code": "UAX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UAY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UAZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UBA",
+    "Description": "Switchgear building"
+  },
+  {
+    "Code": "UBB",
+    "Description": "Structure for power transmission and auxiliary power"
+  },
+  {
+    "Code": "UBC",
+    "Description": "Structure for offsite system transformers"
+  },
+  {
+    "Code": "UBD",
+    "Description": "Structure for low voltage auxiliary power transformers"
+  },
+  {
+    "Code": "UBE",
+    "Description": "Structure for medium voltage auxiliary power transformers"
+  },
+  {
+    "Code": "UBF",
+    "Description": "Structure for generator transformers"
+  },
+  {
+    "Code": "UBG",
+    "Description": "Structure for start-up transformers"
+  },
+  {
+    "Code": "UBH",
+    "Description": "Structure for oil collecting pits"
+  },
+  {
+    "Code": "UBJ",
+    "Description": "Structure for transformer track"
+  },
+  {
+    "Code": "UBK",
+    "Description": "Transformer assembly building"
+  },
+  {
+    "Code": "UBL",
+    "Description": "Structure for busbars"
+  },
+  {
+    "Code": "UBM",
+    "Description": "Structure for transformer cooling system"
+  },
+  {
+    "Code": "UBN",
+    "Description": "Structure for emergency power generating set (with-out central water chiller)"
+  },
+  {
+    "Code": "UBP",
+    "Description": "Emergency power generating and central water chiller building"
+  },
+  {
+    "Code": "UBQ",
+    "Description": "Structure for emergency power generator fuel supply system"
+  },
+  {
+    "Code": "UBX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UBY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UBZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UCA",
+    "Description": "Control room building"
+  },
+  {
+    "Code": "UCB",
+    "Description": "Control station building"
+  },
+  {
+    "Code": "UCL",
+    "Description": "Structure for measuring equipment"
+  },
+  {
+    "Code": "UCP",
+    "Description": "Cooling water monitoring structure"
+  },
+  {
+    "Code": "UCX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UCY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UCZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UEA",
+    "Description": "Structure for unloading of solid fuels"
+  },
+  {
+    "Code": "UEB",
+    "Description": "Structure for storage of solid fuels"
+  },
+  {
+    "Code": "UED",
+    "Description": "Structure for transport of solid fuels"
+  },
+  {
+    "Code": "UEE",
+    "Description": "Structure for treatment of solid fuels"
+  },
+  {
+    "Code": "UEF",
+    "Description": "Structure for transfer (e.g. junction tower)"
+  },
+  {
+    "Code": "UEG",
+    "Description": "Structure for conversion of solid fuels"
+  },
+  {
+    "Code": "UEH",
+    "Description": "Structure for unloading and reception of liquid fuels"
+  },
+  {
+    "Code": "UEJ",
+    "Description": "Structure for storage of liquid fuels"
+  },
+  {
+    "Code": "UEL",
+    "Description": "Structure for forwarding of liquid fuels (e.g. pump house)"
+  },
+  {
+    "Code": "UEM",
+    "Description": "Structure for treatment and handling of liquid fuels"
+  },
+  {
+    "Code": "UEN",
+    "Description": "Structure for transfer, conversion, storage of gaseous fuels"
+  },
+  {
+    "Code": "UER",
+    "Description": "Structure for forwarding of gaseous fuels"
+  },
+  {
+    "Code": "UET",
+    "Description": "Structure for ash storage"
+  },
+  {
+    "Code": "UEU",
+    "Description": "Structure for ash transport"
+  },
+  {
+    "Code": "UEV",
+    "Description": "Structure for ash settling pond"
+  },
+  {
+    "Code": "UEW",
+    "Description": "Structure for combustion residues handling"
+  },
+  {
+    "Code": "UEX",
+    "Description": "Special structure (plant-specific) (e.g. manhole for gaspipe)"
+  },
+  {
+    "Code": "UEY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UEZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UGA",
+    "Description": "Structure for raw water supply"
+  },
+  {
+    "Code": "UGD",
+    "Description": "Structure for demineralization system"
+  },
+  {
+    "Code": "UGE",
+    "Description": "Structure for neutralization system"
+  },
+  {
+    "Code": "UGF",
+    "Description": "Structure for fire water supply"
+  },
+  {
+    "Code": "UGG",
+    "Description": "Structure for drinking water supply"
+  },
+  {
+    "Code": "UGH",
+    "Description": "Structure for rainwater"
+  },
+  {
+    "Code": "UGK",
+    "Description": "Flocculant mixing chamber"
+  },
+  {
+    "Code": "UGL",
+    "Description": "Flocculator structure, flocculator"
+  },
+  {
+    "Code": "UGN",
+    "Description": "Treated water basin"
+  },
+  {
+    "Code": "UGP",
+    "Description": "Sludge thickener"
+  },
+  {
+    "Code": "UGQ",
+    "Description": "Sludge dewatering building"
+  },
+  {
+    "Code": "UGR",
+    "Description": "Sludge storage structure"
+  },
+  {
+    "Code": "UGU",
+    "Description": "Structure for effluent disposal"
+  },
+  {
+    "Code": "UGV",
+    "Description": "Structure for sewerage plant"
+  },
+  {
+    "Code": "UGX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UHA",
+    "Description": "steam generator building"
+  },
+  {
+    "Code": "UHF",
+    "Description": "Bunker bay"
+  },
+  {
+    "Code": "UHL",
+    "Description": "Structure for boiler compressed air supply"
+  },
+  {
+    "Code": "UHN",
+    "Description": "Smoke stack incl. structure for flue gas circulation"
+  },
+  {
+    "Code": "UHQ",
+    "Description": "Structure for flue gas filtering system"
+  },
+  {
+    "Code": "UHU",
+    "Description": "Structure for flue gas reheating system"
+  },
+  {
+    "Code": "UHV",
+    "Description": "Structure for combustion air circulation (e.g. for forced draft fan)"
+  },
+  {
+    "Code": "UHW",
+    "Description": "Boiler blowdown structure"
+  },
+  {
+    "Code": "UHX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UHY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UHZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "ULA",
+    "Description": "Feedwater pump house"
+  },
+  {
+    "Code": "ULB",
+    "Description": "Emergency feed building"
+  },
+  {
+    "Code": "ULC",
+    "Description": "Structure for condensate system"
+  },
+  {
+    "Code": "ULD",
+    "Description": "Structure for condensate polishing plant"
+  },
+  {
+    "Code": "ULE",
+    "Description": "Structure for emergency supply systems"
+  },
+  {
+    "Code": "ULN",
+    "Description": "Structure for hydroelectric power plant water impounding systems"
+  },
+  {
+    "Code": "ULP",
+    "Description": "Structure for hydroelectric power plant intake systems"
+  },
+  {
+    "Code": "ULQ",
+    "Description": "Structure for hydroelectric power plant tailrace systems"
+  },
+  {
+    "Code": "ULR",
+    "Description": "Structure for steam, water, gas cycle"
+  },
+  {
+    "Code": "ULX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "ULY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "ULZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UMA",
+    "Description": "Steam turbine building"
+  },
+  {
+    "Code": "UMB",
+    "Description": "Gas turbine building"
+  },
+  {
+    "Code": "UME",
+    "Description": "Hydraulic turbine building"
+  },
+  {
+    "Code": "UMG",
+    "Description": "Pumped storage turbine building"
+  },
+  {
+    "Code": "UMJ",
+    "Description": "Diesel engine building"
+  },
+  {
+    "Code": "UMR",
+    "Description": "Gas engine plant building"
+  },
+  {
+    "Code": "UMX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UMY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UMZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UPA",
+    "Description": "Circulating water intake culvert"
+  },
+  {
+    "Code": "UPB",
+    "Description": "Service water intake culvert"
+  },
+  {
+    "Code": "UPC",
+    "Description": "Circulating water intake structure"
+  },
+  {
+    "Code": "UPD",
+    "Description": "Service water intake structure"
+  },
+  {
+    "Code": "UPH",
+    "Description": "Circulating water treatment structure"
+  },
+  {
+    "Code": "UPJ",
+    "Description": "Service water treatment structure"
+  },
+  {
+    "Code": "UPN",
+    "Description": "Circulating water inlet culvert"
+  },
+  {
+    "Code": "UPP",
+    "Description": "Service water inlet culvert"
+  },
+  {
+    "Code": "UPQ",
+    "Description": "Biocide treatment building"
+  },
+  {
+    "Code": "UPT",
+    "Description": "Screen wash water cleaning structure"
+  },
+  {
+    "Code": "UPX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UPY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UPZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UQA",
+    "Description": "Circulating water pump building"
+  },
+  {
+    "Code": "UQB",
+    "Description": "Service water pump building"
+  },
+  {
+    "Code": "UQF",
+    "Description": "Circulating water storage pit"
+  },
+  {
+    "Code": "UQG",
+    "Description": "Circulating water overflow structure, surge tank"
+  },
+  {
+    "Code": "UQH",
+    "Description": "Screen wash water discharge culvert"
+  },
+  {
+    "Code": "UQJ",
+    "Description": "Circulating water seal pit, incl. circulating water aeration structure"
+  },
+  {
+    "Code": "UQK",
+    "Description": "Circulating water venting structure"
+  },
+  {
+    "Code": "UQL",
+    "Description": "Service water surge pond"
+  },
+  {
+    "Code": "UQM",
+    "Description": "Service water collecting pond"
+  },
+  {
+    "Code": "UQN",
+    "Description": "Circulating water outfall culvert"
+  },
+  {
+    "Code": "UQP",
+    "Description": "Service water outfall culvert"
+  },
+  {
+    "Code": "UQQ",
+    "Description": "Circulating water outfall structure"
+  },
+  {
+    "Code": "UQR",
+    "Description": "Service water outfall structure"
+  },
+  {
+    "Code": "UQS",
+    "Description": "Shaft structure (shaft)"
+  },
+  {
+    "Code": "UQT",
+    "Description": "Service water discharge culvert"
+  },
+  {
+    "Code": "UQU",
+    "Description": "Circulating water spillway structure, incl. circulating water aeration structure"
+  },
+  {
+    "Code": "UQV",
+    "Description": "Structure for artificial circulating water aeration"
+  },
+  {
+    "Code": "UQW",
+    "Description": "Routing structure for circulating water discharge"
+  },
+  {
+    "Code": "UQX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UQY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UQZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "URA",
+    "Description": "Cooling tower structure (circulating water)"
+  },
+  {
+    "Code": "URB",
+    "Description": "Cooling tower structure (service water)"
+  },
+  {
+    "Code": "URC",
+    "Description": "Structure for air cooled condenser"
+  },
+  {
+    "Code": "URD",
+    "Description": "Cooling tower pump building (circulating water)"
+  },
+  {
+    "Code": "URE",
+    "Description": "Cooling tower pump building (service water)"
+  },
+  {
+    "Code": "URG",
+    "Description": "Cooling tower connecting structure"
+  },
+  {
+    "Code": "URH",
+    "Description": "Cooling tower outlet structure"
+  },
+  {
+    "Code": "URJ",
+    "Description": "Cooling tower outfall culvert"
+  },
+  {
+    "Code": "URK",
+    "Description": "Cooling tower return structure"
+  },
+  {
+    "Code": "URL",
+    "Description": "Cooling tower return culvert"
+  },
+  {
+    "Code": "URM",
+    "Description": "Circulating water distribution building"
+  },
+  {
+    "Code": "URN",
+    "Description": "Cooling tower bypass structure"
+  },
+  {
+    "Code": "URP",
+    "Description": "Cooling tower blowdown structure"
+  },
+  {
+    "Code": "URQ",
+    "Description": "Cooling tower blowdown culvert"
+  },
+  {
+    "Code": "URX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "URY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "URZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "USA",
+    "Description": "Structure for heating, ventilation, air-conditioning (HVAC) systems"
+  },
+  {
+    "Code": "USB",
+    "Description": "Structure for space heating systems"
+  },
+  {
+    "Code": "USC",
+    "Description": "Structure for stationary compressed air supply system"
+  },
+  {
+    "Code": "USG",
+    "Description": "Fire pump house"
+  },
+  {
+    "Code": "UST",
+    "Description": "Workshop/stores building"
+  },
+  {
+    "Code": "USU",
+    "Description": "Consumables storage building"
+  },
+  {
+    "Code": "USV",
+    "Description": "Laboratory building"
+  },
+  {
+    "Code": "USX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "USY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "USZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UTA",
+    "Description": "Supply systems building"
+  },
+  {
+    "Code": "UTB",
+    "Description": "Central water chiller building"
+  },
+  {
+    "Code": "UTF",
+    "Description": "Compressed air system building"
+  },
+  {
+    "Code": "UTG",
+    "Description": "Central gas supply systems building (no fuel supply)"
+  },
+  {
+    "Code": "UTH",
+    "Description": "Auxiliary steam generator building"
+  },
+  {
+    "Code": "UTJ",
+    "Description": "Smoke stack"
+  },
+  {
+    "Code": "UTX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UTY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UTZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UVA",
+    "Description": "Structure for flue gas-side heat exchanger"
+  },
+  {
+    "Code": "UVB",
+    "Description": "Structure for flue gas fan system"
+  },
+  {
+    "Code": "UVC",
+    "Description": "Structure for flue gas scrubber, reactor"
+  },
+  {
+    "Code": "UVD",
+    "Description": "Structure for adsorbent/absorbent circuit"
+  },
+  {
+    "Code": "UVE",
+    "Description": "Structure for reagent supply, incl. preparation/treatment, storage, forwarding"
+  },
+  {
+    "Code": "UVF",
+    "Description": "Structure for thickening and solids dewatering, solids drying and compacting system"
+  },
+  {
+    "Code": "UVG",
+    "Description": "Structure for chemical flue gas treatment"
+  },
+  {
+    "Code": "UVH",
+    "Description": "Structure for (solids/product) forwarding, storage, loading"
+  },
+  {
+    "Code": "UVJ",
+    "Description": "Analysis building"
+  },
+  {
+    "Code": "UVM",
+    "Description": "Structure for catalyst handling and storage"
+  },
+  {
+    "Code": "UVX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UVY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UVZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UXA",
+    "Description": "Structure for seawater desalination plant"
+  },
+  {
+    "Code": "UXX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UXY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UXZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UYA",
+    "Description": "Office and staff amenities building"
+  },
+  {
+    "Code": "UYB",
+    "Description": "Staff amenities building"
+  },
+  {
+    "Code": "UYC",
+    "Description": "Administration building"
+  },
+  {
+    "Code": "UYD",
+    "Description": "Canteen"
+  },
+  {
+    "Code": "UYE",
+    "Description": "Gate house"
+  },
+  {
+    "Code": "UYF",
+    "Description": "Security gate house"
+  },
+  {
+    "Code": "UYG",
+    "Description": "Information center"
+  },
+  {
+    "Code": "UYH",
+    "Description": "Training facility"
+  },
+  {
+    "Code": "UYJ",
+    "Description": "Medical center"
+  },
+  {
+    "Code": "UYN",
+    "Description": "Railway engine shed"
+  },
+  {
+    "Code": "UYP",
+    "Description": "Fire station"
+  },
+  {
+    "Code": "UYQ",
+    "Description": "Garage"
+  },
+  {
+    "Code": "UYR",
+    "Description": "Automobile workshop"
+  },
+  {
+    "Code": "UYS",
+    "Description": "Filling station"
+  },
+  {
+    "Code": "UYX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UYY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UYZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "UZA",
+    "Description": "Works roadway, path, incl. associated structures"
+  },
+  {
+    "Code": "UZC",
+    "Description": "Yard"
+  },
+  {
+    "Code": "UZD",
+    "Description": "Parking area, incl. associated structures"
+  },
+  {
+    "Code": "UZE",
+    "Description": "Railway structure"
+  },
+  {
+    "Code": "UZF",
+    "Description": "Lifting gear structure"
+  },
+  {
+    "Code": "UZJ",
+    "Description": "Fencing and gate"
+  },
+  {
+    "Code": "UZK",
+    "Description": "Gardens, incl. associated structures"
+  },
+  {
+    "Code": "UZL",
+    "Description": "Noise abatement structure"
+  },
+  {
+    "Code": "UZM",
+    "Description": "Protective structure against external impact (EI)"
+  },
+  {
+    "Code": "UZN",
+    "Description": "Structure for flood protection"
+  },
+  {
+    "Code": "UZP",
+    "Description": "Structure for bank/shoreline stabilization"
+  },
+  {
+    "Code": "UZQ",
+    "Description": "Structure for river regulation"
+  },
+  {
+    "Code": "UZR",
+    "Description": "Jetty, quay"
+  },
+  {
+    "Code": "UZS",
+    "Description": "Shaft structure (shaft)"
+  },
+  {
+    "Code": "UZT",
+    "Description": "Piping/cable route in outdoor area"
+  },
+  {
+    "Code": "UZU",
+    "Description": "Site security structure"
+  },
+  {
+    "Code": "UZW",
+    "Description": "Residential building, residential area"
+  },
+  {
+    "Code": "UZX",
+    "Description": "Special structure (plant-specific)"
+  },
+  {
+    "Code": "UZY",
+    "Description": "Bridge structure"
+  },
+  {
+    "Code": "UZZ",
+    "Description": "Ducting structure"
+  },
+  {
+    "Code": "WA-",
+    "Description": "Solar system"
+  },
+  {
+    "Code": "XJA",
+    "Description": "Engine"
+  },
+  {
+    "Code": "XJB",
+    "Description": "Turbocharger, blower"
+  },
+  {
+    "Code": "XJG",
+    "Description": "Liquid cooling system"
+  },
+  {
+    "Code": "XJH",
+    "Description": "Air intercooling system"
+  },
+  {
+    "Code": "XJK",
+    "Description": "Transmission gear between prime mover and driven machine"
+  },
+  {
+    "Code": "XJN",
+    "Description": "Fuel system"
+  },
+  {
+    "Code": "XJP",
+    "Description": "Start-up unit, (incl. flywheel)"
+  },
+  {
+    "Code": "XJQ",
+    "Description": "Air intake system"
+  },
+  {
+    "Code": "XJR",
+    "Description": "Exhaust gas system"
+  },
+  {
+    "Code": "XJV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "XJX",
+    "Description": "Fluid supply system for control and protection equipment"
+  },
+  {
+    "Code": "XJY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "XKA",
+    "Description": "Generator frame, incl. stator, rotor and all integral cooling equipment"
+  },
+  {
+    "Code": "XKB",
+    "Description": "Generator exciter set, including set with electrical braking system"
+  },
+  {
+    "Code": "XKC",
+    "Description": "Generator exciter set, including set with electrical braking system"
+  },
+  {
+    "Code": "XKD",
+    "Description": "Bearings"
+  },
+  {
+    "Code": "XKF",
+    "Description": "Stator/rotor liquid cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "XKG",
+    "Description": "Stator/rotor hydrogen (H2) cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "XKH",
+    "Description": "Stator/rotor nitrogen (N2)/carbon dioxide (CO2) cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "XKJ",
+    "Description": "Stator/rotor air cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "XKQ",
+    "Description": "Exhaust gas system"
+  },
+  {
+    "Code": "XKU",
+    "Description": "Stator/rotor cooling oil cooling system, incl. coolant supply system"
+  },
+  {
+    "Code": "XKV",
+    "Description": "Lubricant supply system"
+  },
+  {
+    "Code": "XKY",
+    "Description": "Control and protection equipment"
+  },
+  {
+    "Code": "XPA",
+    "Description": "Foundation"
+  },
+  {
+    "Code": "XPB",
+    "Description": "Sheathing"
+  },
+  {
+    "Code": "XPG",
+    "Description": "Frame, support structure"
+  },
+  {
+    "Code": "XPR",
+    "Description": "Forced cooling system"
+  },
+  {
+    "Code": "XPS",
+    "Description": "Drying and layup system"
+  },
+  {
+    "Code": "ZTA",
+    "Description": "Temporary acid cleaning system"
+  },
+  {
+    "Code": "ZTB",
+    "Description": "Temporary steam blowing system"
+  },
+  {
+    "Code": "ZTD",
+    "Description": "Temporary demineralized water supply"
+  },
+  {
+    "Code": "ZXA",
+    "Description": "Storage equipment"
+  },
+  {
+    "Code": "ZXB",
+    "Description": "Piping and fitting equipment"
+  },
+  {
+    "Code": "ZXC",
+    "Description": "GRP Piping"
+  },
+  {
+    "Code": "ZXD",
+    "Description": "Valves"
+  },
+  {
+    "Code": "ZXE",
+    "Description": "Support equipment"
+  },
+  {
+    "Code": "ZXF",
+    "Description": "Strainers"
+  },
+  {
+    "Code": "ZXG",
+    "Description": "Expansion Joints"
+  },
+  {
+    "Code": "ZXH",
+    "Description": "Steam Traps"
+  },
+  {
+    "Code": "ZXJ",
+    "Description": "Insulation"
+  },
+  {
+    "Code": "ZXK",
+    "Description": "Coating and Painting"
+  }
+]
